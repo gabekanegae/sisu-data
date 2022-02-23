@@ -1,50 +1,53 @@
 import requests
 import csv
-from time import time
-
-baseURL = "https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/"
-
-filename = "all_courses"
-
-t0 = time()
-
-print("Will write to file '{}.csv'.".format(filename))
-
-csvFile = open(filename + ".csv", "w+", encoding="UTF-8")
-csvFileWriter = csv.writer(csvFile,  delimiter=";", quotechar="\"", quoting=csv.QUOTE_ALL, lineterminator="\n")
+import os
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'}
 
-response = requests.get(baseURL+"instituicoes", headers=headers).json()
-instituicoes = [r["co_ies"] for r in response]
+# base_url = 'https://sisu-api.apps.mec.gov.br/api/v1/oferta/' # 2020
+base_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/'
+
+year = '2022'
+output_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'all_courses.csv'))
+
+print(f'Will write to file \'{output_csv}\'.')
+
+instituicoes_url = base_url + 'instituicoes'
+response = requests.get(instituicoes_url, headers=headers).json()
+instituicoes = [r['co_ies'] for r in response]
 
 ofertas = []
 for i, instituicao in enumerate(instituicoes):
-    print("[{:>3}/{}] Scanning ID #{}...".format(i+1, len(instituicoes), instituicao))
+    print('[{:>3}/{}] Scanning ID #{}...'.format(i+1, len(instituicoes), instituicao))
 
-    response = requests.get(baseURL+"instituicao/"+instituicao, headers=headers).json()
+    instituicao_url = base_url + 'instituicao' + '/' + instituicao
+    response = requests.get(instituicao_url, headers=headers).json()
+
     for i in range(len(response)-1):
         r = response[str(i)]
 
-        codigo = r["co_oferta"]
-        cursoNome = r["no_curso"]
-        cursoGrau = r["no_grau"]
-        cursoTurno = r["no_turno"]
-        vagasTotais = r["qt_vagas_sem1"]
+        codigo = r['co_oferta']
+        curso_nome = r['no_curso']
+        curso_grau = r['no_grau']
+        curso_turno = r['no_turno']
+        vagas_totais = r['qt_vagas_sem1']
 
-        campusNome = r["no_campus"]
-        campusCidade = r["no_municipio_campus"]
-        campusUF = r["sg_uf_campus"]
-        iesNome = r["no_ies"]
-        iesSG = r["sg_ies"]
+        campus_nome = r['no_campus']
+        campus_cidade = r['no_municipio_campus']
+        campus_uf = r['sg_uf_campus']
+        ies_nome = r['no_ies']
+        ies_sg = r['sg_ies']
 
-        oferta = (campusUF, iesNome, iesSG, campusCidade, campusNome, cursoNome, cursoGrau, cursoTurno, vagasTotais, codigo)
+        oferta = (campus_uf, ies_nome, ies_sg, campus_cidade, campus_nome, curso_nome, curso_grau, curso_turno, vagas_totais, codigo)
         ofertas.append(oferta)
 
-ofertas = sorted(ofertas)
+ofertas.sort()
 
-# Write to .csv
-for oferta in ofertas:
-    csvFileWriter.writerow(tuple(oferta))
+print(f'Writing to file \'{output_csv}\'...')
+with open(output_csv, 'w+', encoding='UTF-8') as f:
+    csv_file_writer = csv.writer(f,  delimiter=';', quotechar='"', quoting=csv.QUOTE_ALL, lineterminator='\n')
 
-print("Written {} courses to '{}.csv' in {:.1f}s.".format(len(ofertas), filename, time()-t0))
+    for oferta in ofertas:
+        csv_file_writer.writerow(tuple(oferta))
+
+print('Finished.')

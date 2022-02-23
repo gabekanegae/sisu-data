@@ -1,83 +1,91 @@
 import requests
 import csv
 import os
-from time import time, sleep
-
-directory = "data"
-filename = input("Filename (without extension): /{}/".format(directory)).strip()
-
-baseURL = "https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/{}/modalidades"
+from time import sleep
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'}
 
-t0 = time()
+# base_url = 'https://sisu-api.apps.mec.gov.br/api/v1/oferta/{}/modalidades' # 2020
+base_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/{}/modalidades'
+
+year = '2022'
+all_courses_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'all_courses.csv'))
+output_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'grades.csv'))
+
 errors = []
 
 ##################################################
 
-# Read course list
+# Get all course info from .csv file
 try:
-    with open("all_courses.csv", "r", encoding="UTF-8") as csvFile:
-        csvFileReader = csv.reader(csvFile, delimiter=";")
-        ofertas = [tuple(l) for l in csvFileReader]
+    print(f'Reading file \'{all_courses_csv}\'...')
+    with open(all_courses_csv, mode='r', encoding='UTF-8') as f:
+        csv_file_reader = csv.reader(f, delimiter=';')
+        ofertas = list(map(tuple, csv_file_reader))
 except FileNotFoundError:
-    print("File /all_courses.csv not found.")
+    print(f'File \'{all_courses_csv}\' not found.')
     exit()
 
-print("Will write to file '/{}/{}.csv'.".format(directory, filename))
+print(f'Will write to file \'{output_csv}\'.')
 
-csvFile = open(os.path.join(directory, filename + ".csv"), "w+", encoding="UTF-8")
-csvFileWriter = csv.writer(csvFile,  delimiter=";", quotechar="\"", quoting=csv.QUOTE_ALL, lineterminator="\n")
+print('Requesting {} courses...'.format(len(ofertas)))
 
-print("Reading {} courses...".format(len(ofertas)))
+csv_lines = []
 
-for oferta in ofertas:
-    campusUF, iesNome, iesSG, campusCidade, campusNome, cursoNome, cursoGrau, cursoTurno, vagasTotais, codigo = oferta
+for i, oferta in enumerate(ofertas):
+    campus_uf, ies_nome, ies_sg, campus_cidade, campus_nome, curso_nome, curso_grau, curso_turno, vagas_totais, codigo = oferta
 
     while True:
         try:
-            response = requests.get(baseURL.format(codigo), headers=headers)
+            response = requests.get(base_url.format(codigo), headers=headers)
             break
         except:
-            print("[{}] An exception occured, retrying...".format(codigo))
+            print('[{}] An exception occured, retrying...'.format(codigo))
             sleep(1)
 
     if response.status_code != 200:
-        print("[{}] Error {}".format(codigo, response.status_code))
+        print('[{}] Error {}'.format(codigo, response.status_code))
         errors.append((codigo, response.status_code))
         continue
+
     response = response.json()
 
-    pesNAT = response["oferta"]["nu_peso_cn"]
-    pesHUM = response["oferta"]["nu_peso_ch"]
-    pesLIN = response["oferta"]["nu_peso_l"]
-    pesMAT = response["oferta"]["nu_peso_m"]
-    pesRED = response["oferta"]["nu_peso_r"]
+    pes_nat = response['oferta']['nu_peso_cn']
+    pes_hum = response['oferta']['nu_peso_ch']
+    pes_lin = response['oferta']['nu_peso_l']
+    pes_mat = response['oferta']['nu_peso_m']
+    pes_red = response['oferta']['nu_peso_r']
 
-    minNAT = response["oferta"]["nu_nmin_cn"]
-    minHUM = response["oferta"]["nu_nmin_ch"]
-    minLIN = response["oferta"]["nu_nmin_l"]
-    minMAT = response["oferta"]["nu_nmin_m"]
-    minRED = response["oferta"]["nu_nmin_r"]
-    minTOT = response["oferta"]["nu_media_minima"]
+    min_nat = response['oferta']['nu_nmin_cn']
+    min_hum = response['oferta']['nu_nmin_ch']
+    min_lin = response['oferta']['nu_nmin_l']
+    min_mat = response['oferta']['nu_nmin_m']
+    min_red = response['oferta']['nu_nmin_r']
+    min_tot = response['oferta']['nu_media_minima']
 
-    modalidades = [{campo: m[campo] for campo in ["no_concorrencia", "qt_vagas", "nu_nota_corte", "qt_bonus_perc", "dt_nota_corte"]} for m in response["modalidades"]]
+    modalidades = [{campo: m[campo] for campo in ['no_concorrencia', 'qt_vagas', 'nu_nota_corte', 'qt_bonus_perc', 'dt_nota_corte']} for m in response['modalidades']]
 
-    print("[{}] {} ({}) - {}".format(codigo, iesNome, iesSG, cursoNome))
+    print(f'[{i+1:>4}/{len(ofertas)}] [{codigo}] {ies_nome} ({ies_sg}) - {curso_nome} - {curso_turno}')
 
-    # Write to .csv
-    csvLine = [codigo, cursoNome, cursoGrau, cursoTurno, vagasTotais,
-                 campusNome, campusCidade, campusUF, iesNome, iesSG,
-                 pesNAT, pesHUM, pesLIN, pesMAT, pesRED,
-                 minNAT, minHUM, minLIN, minMAT, minRED, minTOT]
+    csv_line = [codigo, curso_nome, curso_grau, curso_turno, vagas_totais,
+               campus_nome, campus_cidade, campus_uf, ies_nome, ies_sg,
+               pes_nat, pes_hum, pes_lin, pes_mat, pes_red,
+               min_nat, min_hum, min_lin, min_mat, min_red, min_tot]
+
     for m in modalidades:
-        if int(m["qt_vagas"]) > 0: # Remove modalities with no available roles
-            csvLine += list(m.values())
+        if int(m['qt_vagas']) > 0: # Remove categories with no available vacancies
+            csv_line += list(m.values())
     
-    csvFileWriter.writerow(tuple(csvLine))
+    csv_lines.append(csv_line)
 
-print("Parsed {} courses to '{}/{}.csv' in {:.1f}s with {} errors.".format(len(ofertas), directory, filename, time()-t0, len(errors)))
+with open(output_csv, 'w+', encoding='UTF-8') as f:
+    csv_file_writer = csv.writer(f,  delimiter=';', quotechar='"', quoting=csv.QUOTE_ALL, lineterminator='\n')
+    for csv_line in csv_lines:
+        csv_file_writer.writerow(tuple(csv_line))
+
+print('Finished.')
+
 if errors:
-    print("Errors:")
+    print('Errors:')
     for e in errors:
-        print("\t{} - Error {}".format(e[0], e[1]))
+        print('\t{} - Error {}'.format(e[0], e[1]))
