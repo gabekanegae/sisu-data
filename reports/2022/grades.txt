@@ -4,7 +4,7 @@ UNIVERSIDADE FEDERAL DO ACRE (UFAC) - CAMPUS UNIVERSITÁRIO DE CRUZEIRO DO SUL -
 CIÊNCIAS BIOLÓGICAS , Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 579.60
 	AC:
 		Vagas: 23 | Nota de Corte: 579.60
@@ -30,7 +30,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS BIOLÓGICAS , Licenciatura, Noturno
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 582.75
 	AC:
 		Vagas: 23 | Nota de Corte: 582.75
@@ -56,7 +56,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 DIREITO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 19 | Nota de Corte: 734.20
 	AC:
 		Vagas: 19 | Nota de Corte: 734.20
@@ -82,7 +82,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENFERMAGEM, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 14 | Nota de Corte: 696.34
 	AC:
 		Vagas: 14 | Nota de Corte: 696.34
@@ -106,7 +106,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENGENHARIA AGRONÔMICA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 598.06
 	AC:
 		Vagas: 23 | Nota de Corte: 598.06
@@ -132,7 +132,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENGENHARIA FLORESTAL, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 584.30
 	AC:
 		Vagas: 23 | Nota de Corte: 584.30
@@ -158,7 +158,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 LETRAS - ESPANHOL, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 574.28
 	AC:
 		Vagas: 23 | Nota de Corte: 574.28
@@ -184,7 +184,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 LETRAS - INGLÊS, Licenciatura, Matutino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 597.93
 	AC:
 		Vagas: 23 | Nota de Corte: 597.93
@@ -210,7 +210,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 617.58
 	AC:
 		Vagas: 23 | Nota de Corte: 617.58
@@ -236,7 +236,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 PEDAGOGIA, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 614.28
 	AC:
 		Vagas: 23 | Nota de Corte: 614.28
@@ -265,7 +265,7 @@ UNIVERSIDADE FEDERAL DO ACRE (UFAC) - CAMPUS UNIVERSITÁRIO, Rio Branco, AC
 ABI - CIÊNCIAS SOCIAIS, Área Básica de Ingresso (ABI), Noturno
 Total de Vagas: 55
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 25 | Nota de Corte: 620.40
 	AC:
 		Vagas: 25 | Nota de Corte: 620.40
@@ -291,7 +291,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ABI - FÍSICA, Área Básica de Ingresso (ABI), Vespertino
 Total de Vagas: 55
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 25 | Nota de Corte: 607.00
 	AC:
 		Vagas: 25 | Nota de Corte: 607.00
@@ -317,7 +317,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS BIOLÓGICAS , Licenciatura, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 638.35
 	AC:
 		Vagas: 23 | Nota de Corte: 638.35
@@ -343,7 +343,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 722.27
 	AC:
 		Vagas: 23 | Nota de Corte: 722.27
@@ -369,7 +369,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 DIREITO, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 774.12
 	AC:
 		Vagas: 23 | Nota de Corte: 774.12
@@ -395,7 +395,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 EDUCAÇÃO FÍSICA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=2.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 638.54
 	AC:
 		Vagas: 23 | Nota de Corte: 638.54
@@ -421,7 +421,7 @@ Pesos: NAT=3.00, HUM=2.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 EDUCAÇÃO FÍSICA, Licenciatura, Matutino
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 620.20
 	AC:
 		Vagas: 23 | Nota de Corte: 620.20
@@ -447,7 +447,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENFERMAGEM, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 14 | Nota de Corte: 751.35
 	AC:
 		Vagas: 14 | Nota de Corte: 751.35
@@ -471,7 +471,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENGENHARIA AGRONÔMICA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 659.99
 	AC:
 		Vagas: 23 | Nota de Corte: 659.99
@@ -497,7 +497,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENGENHARIA CIVIL, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 744.42
 	AC:
 		Vagas: 23 | Nota de Corte: 744.42
@@ -523,7 +523,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENGENHARIA FLORESTAL, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 19 | Nota de Corte: 644.86
 	AC:
 		Vagas: 19 | Nota de Corte: 644.86
@@ -549,7 +549,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 GEOGRAFIA, Bacharelado, Vespertino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 19 | Nota de Corte: 600.50
 	AC:
 		Vagas: 19 | Nota de Corte: 600.50
@@ -575,7 +575,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 GEOGRAFIA, Licenciatura, Matutino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 606.15
 	AC:
 		Vagas: 23 | Nota de Corte: 606.15
@@ -601,7 +601,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 HISTÓRIA, Bacharelado, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 615.68
 	AC:
 		Vagas: 23 | Nota de Corte: 615.68
@@ -627,7 +627,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 HISTÓRIA, Licenciatura, Matutino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 627.26
 	AC:
 		Vagas: 23 | Nota de Corte: 627.26
@@ -653,7 +653,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 HISTÓRIA, Licenciatura, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 642.07
 	AC:
 		Vagas: 23 | Nota de Corte: 642.07
@@ -679,7 +679,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 LETRAS - FRANCÊS, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 578.74
 	AC:
 		Vagas: 23 | Nota de Corte: 578.74
@@ -705,7 +705,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 LETRAS - INGLÊS, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 651.69
 	AC:
 		Vagas: 23 | Nota de Corte: 651.69
@@ -731,7 +731,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 LETRAS - LIBRAS, Licenciatura, Matutino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 18 | Nota de Corte: 618.32
 	AC:
 		Vagas: 18 | Nota de Corte: 618.32
@@ -759,7 +759,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 651.91
 	AC:
 		Vagas: 23 | Nota de Corte: 651.91
@@ -785,7 +785,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 MATEMÁTICA, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=2.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 634.95
 	AC:
 		Vagas: 23 | Nota de Corte: 634.95
@@ -811,7 +811,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 19 | Nota de Corte: 859.13
 	AC:
 		Vagas: 19 | Nota de Corte: 859.13
@@ -837,7 +837,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 MEDICINA VETERINÁRIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 734.26
 	AC:
 		Vagas: 23 | Nota de Corte: 734.26
@@ -863,7 +863,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 PEDAGOGIA, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 638.95
 	AC:
 		Vagas: 23 | Nota de Corte: 638.95
@@ -889,7 +889,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 PSICOLOGIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 718.76
 	AC:
 		Vagas: 23 | Nota de Corte: 718.76
@@ -915,7 +915,7 @@ Pesos: NAT=3.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 QUÍMICA, Licenciatura, Matutino
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 614.28
 	AC:
 		Vagas: 23 | Nota de Corte: 614.28
@@ -941,7 +941,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 707.16
 	AC:
 		Vagas: 23 | Nota de Corte: 707.16
@@ -970,7 +970,7 @@ UNIVERSIDADE FEDERAL DO ACRE (UFAC) - UNIVERSIDADE FEDERAL DO ACRE, Rio Branco, 
 ABI - TEATRO, Área Básica de Ingresso (ABI), Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	que tenham cursado todo o Ensino Médio, presencial e regular, em escolas privadas ou públicas da região do Estado do Acre. (+15.00%):
+	REGIONAL (+15.00%):
 		Vagas: 23 | Nota de Corte: 572.29
 	AC:
 		Vagas: 23 | Nota de Corte: 572.29
@@ -6055,9 +6055,9 @@ Pesos: NAT=3.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 437.24
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 432.19
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6069,13 +6069,13 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 579.63
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 532.36
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 491.17
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 480.56
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6087,13 +6087,13 @@ Pesos: NAT=4.00, HUM=1.00, LIN=4.00, MAT=3.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 599.84
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 567.31
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 547.68
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 501.86
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6107,9 +6107,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 523.38
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -6123,11 +6123,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 530.34
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6141,11 +6141,11 @@ Pesos: NAT=3.00, HUM=1.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 562.71
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 495.19
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 458.39
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6159,13 +6159,13 @@ Pesos: NAT=3.00, HUM=1.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 614.71
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 525.35
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 444.16
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 434.09
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6182,9 +6182,9 @@ Pesos: NAT=3.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 504.77
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6204,9 +6204,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 481.93
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 476.71
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 454.28
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA AGRONÔMICA, Bacharelado, Integral
@@ -6218,9 +6218,9 @@ Pesos: NAT=3.00, HUM=2.00, LIN=4.00, MAT=3.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 570.29
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 522.66
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 498.93
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 485.75
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6236,9 +6236,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 486.93
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6252,11 +6252,11 @@ Pesos: NAT=3.00, HUM=1.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 21 | Nota de Corte: 523.52
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 14 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6272,13 +6272,13 @@ Pesos: NAT=3.00, HUM=2.00, LIN=4.00, MAT=3.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 613.71
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 578.81
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 568.41
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 557.73
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 546.63
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 531.23
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -6292,9 +6292,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 454.16
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6310,9 +6310,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 461.09
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6327,13 +6327,13 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 557.13
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 505.80
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 449.16
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 407.55
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6350,9 +6350,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 480.35
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6368,9 +6368,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 538.61
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6382,13 +6382,13 @@ Total de Vagas: 35
 Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 15 | Nota de Corte: 605.42
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 563.69
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 498.41
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6402,11 +6402,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 600.39
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 533.57
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 452.62
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -6422,9 +6422,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 525.02
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6443,9 +6443,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 566.15
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 522.65
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 466.77
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 432.88
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 387.93
@@ -6461,11 +6461,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 633.16
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 595.13
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 583.39
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 574.59
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 559.08
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 528.33
@@ -6480,7 +6480,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 618.66
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 568.68
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 438.74
 	CIGANO + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 430.28
@@ -6488,7 +6488,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 421.43
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 HISTÓRIA, Licenciatura, Vespertino
@@ -6498,11 +6498,11 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 580.24
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 503.00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 423.34
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6516,9 +6516,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 576.34
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 523.99
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 499.47
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 422.91
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -6537,13 +6537,13 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 620.68
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 538.53
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 500.10
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 447.79
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6557,9 +6557,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 433.39
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6575,11 +6575,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 465.08
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -6591,11 +6591,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 552.99
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6614,9 +6614,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 561.26
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 531.56
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 480.68
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 462.98
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 453.46
@@ -6632,13 +6632,13 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 523.14
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 488.13
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 475.46
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 452.24
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 ENFERMAGEM, Bacharelado, Integral
@@ -6648,9 +6648,9 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 684.34
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 632.08
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 625.13
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 576.98
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 550.71
@@ -6666,13 +6666,13 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 571.45
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 519.59
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 494.04
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 444.00
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6686,9 +6686,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 521.28
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6705,11 +6705,11 @@ Pesos: NAT=3.00, HUM=2.00, LIN=4.00, MAT=3.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 579.99
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 479.22
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 446.86
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6727,9 +6727,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 434.99
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6742,13 +6742,13 @@ Total de Vagas: 30
 Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 15 | Nota de Corte: 599.05
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 540.06
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 520.07
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -6760,13 +6760,13 @@ Total de Vagas: 50
 Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 24 | Nota de Corte: 576.26
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 532.86
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 510.83
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6783,11 +6783,11 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 558.44
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 502.73
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 473.10
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6803,11 +6803,11 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 510.45
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 489.30
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 466.23
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6819,11 +6819,11 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 584.65
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 499.10
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 424.99
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6839,9 +6839,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 509.95
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -6857,9 +6857,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 8 | Nota de Corte: 530.73
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -6878,13 +6878,13 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 689.14
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 648.19
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 629.80
 	CIGANO + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 622.14
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 615.03
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 575.92
 
 ENGENHARIA AGRONÔMICA, Bacharelado, Integral
@@ -6894,13 +6894,13 @@ Pesos: NAT=3.00, HUM=2.00, LIN=4.00, MAT=3.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 21 | Nota de Corte: 600.45
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 14 | Nota de Corte: 549.95
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 540.41
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 420.59
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6910,7 +6910,7 @@ Total de Vagas: 45
 Pesos: NAT=4.00, HUM=2.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 21 | Nota de Corte: 609.25
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 531.68
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 14 | Nota de Corte: 494.53
@@ -6918,7 +6918,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 402.29
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6932,11 +6932,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 558.19
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 522.84
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 494.13
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6948,13 +6948,13 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 569.86
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 527.56
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 463.06
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 430.24
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -6964,7 +6964,7 @@ Total de Vagas: 40
 Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 18 | Nota de Corte: 565.48
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 529.81
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 509.86
@@ -6974,7 +6974,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 395.34
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
@@ -6991,9 +6991,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 459.01
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7007,9 +7007,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 545.58
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7028,13 +7028,13 @@ Pesos: NAT=3.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 531.28
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 528.30
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 469.56
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 426.99
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Noturno
@@ -7042,7 +7042,7 @@ Total de Vagas: 40
 Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 18 | Nota de Corte: 707.46
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 634.56
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 633.24
@@ -7050,7 +7050,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 623.00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 602.58
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 573.57
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 524.33
@@ -7064,11 +7064,11 @@ Pesos: NAT=4.00, HUM=1.00, LIN=4.00, MAT=3.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 521.76
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 469.40
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 417.39
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7084,9 +7084,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 479.74
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7105,9 +7105,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 3 | Nota de Corte: 551.02
 	TRANS + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 541.54
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 537.40
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 509.56
 	INDIGENA + RENDA + EP:
 		Vagas: 20 | Nota de Corte: 478.64
@@ -7121,9 +7121,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 587.48
 	CIGANO + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 511.12
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 497.85
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 495.49
 	INDIGENA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 463.82
@@ -7139,11 +7139,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 655.06
 	CIGANO + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 626.03
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 599.39
 	TRANS + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 583.46
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 573.72
 	INDIGENA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 565.83
@@ -7155,7 +7155,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 707.96
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 639.03
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 608.98
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 597.68
@@ -7163,7 +7163,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 585.64
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 513.99
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 486.81
 
 FARMÁCIA, Bacharelado, Integral
@@ -7173,13 +7173,13 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 681.39
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 601.35
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 519.91
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 515.48
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 459.43
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 428.25
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 423.47
@@ -7195,9 +7195,9 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 596.92
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 595.13
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 563.31
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 554.91
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 548.83
@@ -7211,13 +7211,13 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 598.09
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 571.28
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 553.30
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 550.44
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 535.38
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 524.28
 
 LETRAS - LíNGUA ESPANHOLA E LITERATURA, Licenciatura, Matutino
@@ -7225,7 +7225,7 @@ Total de Vagas: 25
 Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 12 | Nota de Corte: 609.43
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 572.28
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 553.13
@@ -7233,7 +7233,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 462.26
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7243,13 +7243,13 @@ Total de Vagas: 40
 Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 18 | Nota de Corte: 789.11
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 744.82
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 736.46
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 733.88
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 711.52
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 693.17
@@ -7265,13 +7265,13 @@ Pesos: NAT=4.00, HUM=2.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 603.14
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 581.08
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 575.05
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 571.06
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 535.81
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 481.43
 
 PEDAGOGIA, Licenciatura, Matutino
@@ -7283,11 +7283,11 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 574.15
 	TRANS + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 443.83
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 435.68
 	CIGANO + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 420.56
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: .00
@@ -7301,11 +7301,11 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 574.31
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 535.21
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 499.18
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 476.09
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 458.88
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7317,13 +7317,13 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 602.73
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 545.91
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 485.11
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 444.83
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7338,9 +7338,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 623.05
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 574.36
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 561.55
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 519.21
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7358,9 +7358,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 578.20
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 531.63
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 520.71
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 498.18
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7379,9 +7379,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 585.24
 	TRANS + RENDA + EP:
 		Vagas: 3 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 3 | Nota de Corte: .00
@@ -7399,9 +7399,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 432.25
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7413,11 +7413,11 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 574.05
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 535.90
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 474.28
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7431,11 +7431,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 592.29
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 562.00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 547.48
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7451,11 +7451,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 8 | Nota de Corte: 499.45
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 490.94
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 430.06
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7469,9 +7469,9 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 550.59
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 521.03
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7488,11 +7488,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 540.13
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 518.19
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 478.60
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7504,7 +7504,7 @@ Total de Vagas: 25
 Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 12 | Nota de Corte: 564.71
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 548.28
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 514.59
@@ -7512,7 +7512,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 8 | Nota de Corte: 470.11
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	CIGANO + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7525,13 +7525,13 @@ Total de Vagas: 30
 Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 15 | Nota de Corte: 644.99
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 569.06
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 542.46
 	CIGANO + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 535.29
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 443.14
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7548,11 +7548,11 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 595.36
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 526.58
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 487.08
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7564,13 +7564,13 @@ Total de Vagas: 30
 Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 15 | Nota de Corte: 539.03
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 464.40
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 366.25
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -7589,9 +7589,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 525.51
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7610,11 +7610,11 @@ Pesos: NAT=3.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 2 | Nota de Corte: 443.01
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7626,11 +7626,11 @@ Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 18 | Nota de Corte: 557.05
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 12 | Nota de Corte: 496.51
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 472.87
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7646,9 +7646,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 12 | Nota de Corte: 478.25
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7662,11 +7662,11 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 504.80
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7678,11 +7678,11 @@ Total de Vagas: 30
 Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	AC:
 		Vagas: 15 | Nota de Corte: 554.72
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 493.04
 	TRANS + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 10 | Nota de Corte: .00
@@ -7700,9 +7700,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=4.00, MAT=4.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 470.29
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7716,11 +7716,11 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 548.68
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 491.41
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 383.74
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -7737,13 +7737,13 @@ Pesos: NAT=1.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 707.46
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 621.76
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 587.51
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 574.83
 	TRANS + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 546.15
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 542.04
 	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 530.94
@@ -7755,9 +7755,9 @@ Pesos: NAT=2.00, HUM=4.00, LIN=4.00, MAT=2.00, RED=4.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 24 | Nota de Corte: 550.26
 	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 535.46
-	QUILOMBOLA + EP:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 477.95
-	PCD + EP:
+	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 475.15
 	CIGANO + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 437.93
@@ -13597,9 +13597,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIAS BIOLÓGICAS , Licenciatura, Vespertino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 709.46
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Oeste  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 709.46
 	AC:
 		Vagas: 17 | Nota de Corte: 709.46
@@ -13623,9 +13623,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 660.84
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Oeste  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 660.84
 	AC:
 		Vagas: 20 | Nota de Corte: 660.84
@@ -13652,7 +13652,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIAS BIOLÓGICAS , Licenciatura, Vespertino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 642.88
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 642.88
@@ -13681,7 +13681,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 750.52
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 750.52
@@ -13707,7 +13707,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA DE AQUICULTURA, Bacharelado, Vespertino
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 616.67
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 616.67
@@ -13735,7 +13735,7 @@ Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	EP:
 		Vagas: 1 | Nota de Corte: 641.09
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 632.64
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 632.64
@@ -13759,7 +13759,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 665.18
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 665.18
@@ -13788,7 +13788,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 GASTRONOMIA, Tecnológico, Vespertino
 Total de Vagas: 25
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 12 | Nota de Corte: 682.16
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Baturité do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 12 | Nota de Corte: 682.16
@@ -13812,7 +13812,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 HOTELARIA, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 637.40
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Baturité do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 637.40
@@ -13838,7 +13838,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 655.95
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Baturité do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 655.95
@@ -13867,7 +13867,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 28
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 14 | Nota de Corte: 606.58
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 14 | Nota de Corte: 606.58
@@ -13896,9 +13896,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 GESTÃO AMBIENTAL, Tecnológico, Vespertino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 649.38
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Oeste  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 649.38
 	AC:
 		Vagas: 15 | Nota de Corte: 649.38
@@ -13922,9 +13922,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Integral
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 670.24
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Oeste  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 670.24
 	AC:
 		Vagas: 15 | Nota de Corte: 670.24
@@ -13948,9 +13948,9 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 650.28
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Oeste  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 650.28
 	AC:
 		Vagas: 15 | Nota de Corte: 650.28
@@ -13977,7 +13977,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 EDUCAÇÃO FÍSICA, Licenciatura, Matutino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 665.62
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 665.62
@@ -14003,7 +14003,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=1.00, HUM
 GESTÃO DE TURISMO, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 622.58
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 622.58
@@ -14029,7 +14029,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Vespertino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 699.50
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 699.50
@@ -14057,7 +14057,7 @@ Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	EP:
 		Vagas: 1 | Nota de Corte: 628.66
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 619.18
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 619.18
@@ -14081,7 +14081,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 REDES DE COMPUTADORES, Tecnológico, Vespertino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 684.60
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 684.60
@@ -14110,7 +14110,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Noturno
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 800.41
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 800.41
@@ -14136,7 +14136,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 701.20
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 701.20
@@ -14162,7 +14162,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 673.90
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 673.90
@@ -14191,7 +14191,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ENGENHARIA ELÉTRICA, Bacharelado, Vespertino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 754.00
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 754.00
@@ -14217,7 +14217,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MECATRÔNICA INDUSTRIAL, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 670.38
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 670.38
@@ -14243,7 +14243,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Vespertino
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 723.11
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 723.11
@@ -14272,9 +14272,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 641.64
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão dos Inhamuns do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 641.64
 	AC:
 		Vagas: 20 | Nota de Corte: 641.64
@@ -14298,9 +14298,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GEOGRAFIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 688.73
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão dos Inhamuns do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 688.73
 	AC:
 		Vagas: 20 | Nota de Corte: 688.73
@@ -14324,9 +14324,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 695.99
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão dos Inhamuns do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 695.99
 	AC:
 		Vagas: 20 | Nota de Corte: 695.99
@@ -14350,9 +14350,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MÚSICA, Licenciatura, Noturno
 Total de Vagas: 32
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 16 | Nota de Corte: 658.37
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão dos Inhamuns do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 16 | Nota de Corte: 658.37
 	AC:
 		Vagas: 16 | Nota de Corte: 658.37
@@ -14379,7 +14379,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 768.92
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 768.92
@@ -14405,7 +14405,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ZOOTECNIA, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 697.74
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 697.74
@@ -14434,7 +14434,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ARTES VISUAIS, Licenciatura, Matutino
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 791.78
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 791.78
@@ -14460,7 +14460,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA CIVIL, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 840.49
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 840.49
@@ -14486,7 +14486,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 874.61
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 874.61
@@ -14512,7 +14512,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA DE MECATRÔNICA, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 830.48
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 830.48
@@ -14538,7 +14538,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA DE TELECOMUNICAÇÕES, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 790.92
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 790.92
@@ -14564,7 +14564,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ESTRADAS, Tecnológico, Noturno
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 704.91
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 704.91
@@ -14590,7 +14590,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 735.08
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 735.08
@@ -14616,7 +14616,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GESTÃO AMBIENTAL, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 739.23
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 739.23
@@ -14642,7 +14642,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GESTÃO DESPORTIVA E DE LAZER, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 725.12
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 725.12
@@ -14668,7 +14668,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 HOTELARIA, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 726.69
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 726.69
@@ -14694,7 +14694,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Vespertino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 756.89
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 756.89
@@ -14720,7 +14720,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MECATRÔNICA INDUSTRIAL, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 775.58
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 775.58
@@ -14746,7 +14746,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 PROCESSOS QUÍMICOS, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 726.60
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 726.60
@@ -14772,7 +14772,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 SANEAMENTO AMBIENTAL, Tecnológico, Matutino
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 700.80
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 700.80
@@ -14798,7 +14798,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 TEATRO, Licenciatura, Vespertino
 Total de Vagas: 25
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 12 | Nota de Corte: 752.83
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 12 | Nota de Corte: 752.83
@@ -14822,7 +14822,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 TELEMÁTICA, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 742.15
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 742.15
@@ -14848,7 +14848,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 TURISMO, Bacharelado, Vespertino
 Total de Vagas: 25
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 12 | Nota de Corte: 752.58
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 12 | Nota de Corte: 752.58
@@ -14875,7 +14875,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 FÍSICA, Licenciatura, Vespertino
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 642.56
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 642.56
@@ -14904,7 +14904,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ENGENHARIA AGRÍCOLA, Bacharelado, Vespertino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 667.53
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 667.53
@@ -14930,7 +14930,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=1.00, HUM
 GEOGRAFIA, Licenciatura, Vespertino
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 686.96
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 686.96
@@ -14956,7 +14956,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 701.44
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 701.44
@@ -14982,7 +14982,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 SERVIÇO SOCIAL, Bacharelado, Noturno
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 710.31
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 710.31
@@ -15011,7 +15011,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIAS BIOLÓGICAS , Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 633.66
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 633.66
@@ -15037,7 +15037,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 REDES DE COMPUTADORES, Tecnológico, Matutino
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 632.08
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 632.08
@@ -15066,7 +15066,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 AUTOMAÇÃO INDUSTRIAL, Tecnológico, Noturno
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 723.42
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 723.42
@@ -15092,7 +15092,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 719.76
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 719.76
@@ -15118,7 +15118,7 @@ Pesos: NAT=3.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA AMBIENTAL, Bacharelado, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 719.52
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 719.52
@@ -15144,7 +15144,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA CIVIL, Bacharelado, Vespertino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 816.68
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 816.68
@@ -15170,7 +15170,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 724.98
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 724.98
@@ -15199,7 +15199,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 648.88
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 648.88
@@ -15225,7 +15225,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=1.00, HUM
 ALIMENTOS, Tecnológico, Matutino
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 646.92
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 646.92
@@ -15251,7 +15251,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 674.68
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 674.68
@@ -15277,7 +15277,7 @@ Pesos: NAT=2.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MECATRÔNICA INDUSTRIAL, Tecnológico, Matutino
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 659.36
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 659.36
@@ -15305,7 +15305,7 @@ Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	EP:
 		Vagas: 2 | Nota de Corte: 610.80
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 581.22
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 581.22
@@ -15331,7 +15331,7 @@ Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	RENDA + EP:
 		Vagas: 2 | Nota de Corte: 605.72
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 584.09
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 584.09
@@ -15358,7 +15358,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Integral
 Total de Vagas: 60
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 30 | Nota de Corte: 843.11
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 30 | Nota de Corte: 843.11
@@ -15384,7 +15384,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA AMBIENTAL E SANITÁRIA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 744.53
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 744.53
@@ -15410,7 +15410,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA MECÂNICA, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 796.21
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 796.21
@@ -15436,7 +15436,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 712.25
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 712.25
@@ -15462,7 +15462,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 694.85
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 694.85
@@ -15491,7 +15491,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 636.07
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 636.07
@@ -15517,7 +15517,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 666.20
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 666.20
@@ -15546,7 +15546,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ENGENHARIA CIVIL, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 715.31
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 715.31
@@ -15572,7 +15572,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA DE AQUICULTURA, Bacharelado, Vespertino
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 595.19
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 595.19
@@ -15601,7 +15601,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIAS BIOLÓGICAS , Licenciatura, Integral
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 678.75
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 678.75
@@ -15627,7 +15627,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GESTÃO AMBIENTAL, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 646.41
 	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 646.41
@@ -15656,7 +15656,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ENGENHARIA AMBIENTAL E SANITÁRIA, Bacharelado, Vespertino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 703.45
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 703.45
@@ -15682,7 +15682,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA CIVIL, Bacharelado, Integral
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 753.92
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 753.92
@@ -15708,7 +15708,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA DE PRODUÇÃO CIVIL, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 709.25
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 15 | Nota de Corte: 709.25
@@ -15734,7 +15734,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GEOGRAFIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 675.50
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 20 | Nota de Corte: 675.50
@@ -15762,7 +15762,7 @@ Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	RENDA + EP:
 		Vagas: 1 | Nota de Corte: 668.15
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 630.64
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 630.64
@@ -15789,7 +15789,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ALIMENTOS, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 713.85
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 713.85
@@ -15815,7 +15815,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 744.24
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 744.24
@@ -15841,7 +15841,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 744.04
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 744.04
@@ -15867,7 +15867,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 SANEAMENTO AMBIENTAL, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 706.01
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 706.01
@@ -15900,7 +15900,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 1 | Nota de Corte: 630.59
 	EP:
 		Vagas: 1 | Nota de Corte: 602.91
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 578.47
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 578.47
@@ -15925,9 +15925,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 LETRAS - PORTUGUÊS E INGLÊS E RESPECTIVAS LITERATURAS, Licenciatura, Integral
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 656.04
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão dos Inhamuns do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 656.04
 	AC:
 		Vagas: 15 | Nota de Corte: 656.04
@@ -15954,7 +15954,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Noturno
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 788.32
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 788.32
@@ -15980,7 +15980,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 683.15
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 683.15
@@ -16006,7 +16006,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Matutino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 745.03
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 745.03
@@ -16035,7 +16035,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 AGROINDÚSTRIA, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 664.47
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 664.47
@@ -16061,7 +16061,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GASTRONOMIA, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 694.80
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 694.80
@@ -16087,7 +16087,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 677.38
 	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
 		Vagas: 17 | Nota de Corte: 677.38
@@ -16116,9 +16116,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Integral
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	Candidato (s) que tenham concluído o Ensino Médio no Estado do Ceará; (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 678.53
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Oeste  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 678.53
 	AC:
 		Vagas: 15 | Nota de Corte: 678.53
@@ -19131,7 +19131,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 600.02
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 598.37
-	Reserva de vagas para candidatos de Agricultura Familiar (AF):
+	AF:
 		Vagas: 6 | Nota de Corte: 489.89
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 474.90
@@ -19155,7 +19155,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 619.44
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 615.06
-	Reserva de vagas para candidatos de Agricultura Familiar (AF):
+	AF:
 		Vagas: 6 | Nota de Corte: 568.52
 	PCD:
 		Vagas: 2 | Nota de Corte: 565.18
@@ -19185,7 +19185,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 610.67
 	PCD:
 		Vagas: 2 | Nota de Corte: 597.92
-	Reserva de vagas para candidatos de Agricultura Familiar (AF):
+	AF:
 		Vagas: 6 | Nota de Corte: 582.32
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 551.24
@@ -30199,7 +30199,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 639.28
 	PPI + EP:
 		Vagas: 1 | Nota de Corte: 631.54
-	Candidato (s) que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária.:
+	AF:
 		Vagas: 1 | Nota de Corte: 611.24
 	PPI + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 609.80
@@ -30225,7 +30225,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 522.38
 	PPI + EP:
 		Vagas: 1 | Nota de Corte: 519.52
-	Candidato (s) que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária.:
+	AF:
 		Vagas: 1 | Nota de Corte: 442.92
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -30666,7 +30666,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: .00
 	PCD:
 		Vagas: 1 | Nota de Corte: .00
-	Candidato (s) que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária.:
+	AF:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Integral
@@ -30716,7 +30716,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Candidato (s) que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária.:
+	AF:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIA E TECNOLOGIA DE LATICÍNIOS, Bacharelado, Integral
@@ -30742,7 +30742,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: .00
 	PCD:
 		Vagas: 1 | Nota de Corte: .00
-	Candidato (s) que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária.:
+	AF:
 		Vagas: 1 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Noturno
@@ -30826,7 +30826,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 583.04
 	RENDA + EP:
 		Vagas: 1 | Nota de Corte: 580.04
-	Candidato (s) que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária.:
+	AF:
 		Vagas: 1 | Nota de Corte: 573.80
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 562.02
@@ -66344,7 +66344,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 20 | Nota de Corte: 524.83
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 511.88
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 491.11
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66356,7 +66356,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 548.22
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 519.74
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 490.09
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -66370,7 +66370,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 521.99
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 511.36
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 478.25
 
 ==================================================
@@ -66383,7 +66383,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 496.22
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 470.15
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 432.30
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66395,7 +66395,7 @@ Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 672.78
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 630.37
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 605.46
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 487.87
@@ -66407,7 +66407,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 510.38
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 507.01
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 450.36
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66419,7 +66419,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 15 | Nota de Corte: 507.65
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 492.67
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 441.08
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -66434,7 +66434,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 589.20
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 577.95
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 544.36
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66446,7 +66446,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 554.65
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 521.08
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 489.06
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 426.57
@@ -66458,7 +66458,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 566.95
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 530.78
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 514.69
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 427.25
@@ -66470,7 +66470,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 506.12
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 498.48
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 477.52
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66480,7 +66480,7 @@ Total de Vagas: 40
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=20.00, LIN=20.00, MAT=.01, RED=20.00, TOTAL=.01
 	AC:
 		Vagas: 20 | Nota de Corte: 537.25
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 525.79
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 519.40
@@ -66494,7 +66494,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 515.52
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 506.63
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 502.02
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 393.74
@@ -66509,7 +66509,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 509.62
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 499.28
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 451.04
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66521,7 +66521,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 509.75
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 482.54
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 449.47
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66533,7 +66533,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 493.46
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 453.59
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 440.81
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -66545,7 +66545,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 511.86
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 480.11
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 457.74
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66560,7 +66560,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 654.36
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 603.44
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 560.40
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 376.82
@@ -66572,7 +66572,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 558.23
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 537.05
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 490.12
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66584,7 +66584,7 @@ Pesos: NAT=4.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 570.16
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 547.48
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 493.60
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -66596,7 +66596,7 @@ Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 696.87
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 651.07
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 616.66
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 592.10
@@ -66608,7 +66608,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 12 | Nota de Corte: 680.42
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 651.98
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 603.91
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 591.72
@@ -66620,7 +66620,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 571.71
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 557.73
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 521.16
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66632,7 +66632,7 @@ Pesos: NAT=4.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 547.40
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 526.85
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 481.18
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66644,7 +66644,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 9 | Nota de Corte: 583.44
 	AC:
 		Vagas: 20 | Nota de Corte: 571.55
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 512.51
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66656,7 +66656,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 12 | Nota de Corte: 721.67
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 687.53
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 662.25
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 562.83
@@ -66668,7 +66668,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 563.99
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 540.91
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 513.71
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 457.78
@@ -66683,7 +66683,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 561.47
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 543.97
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 495.17
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 408.68
@@ -66695,7 +66695,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 569.06
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 534.93
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 497.31
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 429.65
@@ -66707,7 +66707,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 521.55
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 509.09
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 478.93
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66719,7 +66719,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 605.98
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 596.61
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 544.08
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 456.34
@@ -66731,7 +66731,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 590.32
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 562.61
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 512.38
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 380.23
@@ -66743,7 +66743,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 537.95
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 519.08
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 479.93
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 443.24
@@ -66760,7 +66760,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 599.17
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 589.08
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 538.34
 
 DIREITO, Bacharelado, Vespertino
@@ -66770,7 +66770,7 @@ Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 678.28
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 645.53
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 603.17
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 592.05
@@ -66782,7 +66782,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 586.75
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 566.85
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 514.15
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 462.39
@@ -66797,7 +66797,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 509.61
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 498.47
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 434.82
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66812,7 +66812,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 650.86
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 613.25
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 585.83
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 515.70
@@ -66824,7 +66824,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 591.03
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 571.06
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 544.49
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 518.01
@@ -66836,7 +66836,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 581.94
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 552.86
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 525.64
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 467.81
@@ -66848,7 +66848,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 15 | Nota de Corte: 596.74
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 571.57
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 534.45
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 521.68
@@ -66860,7 +66860,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 15 | Nota de Corte: 578.59
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 561.16
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 531.63
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 475.63
@@ -66872,7 +66872,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 644.03
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 620.09
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 588.85
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 451.88
@@ -66884,7 +66884,7 @@ Pesos: NAT=4.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 564.38
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 546.12
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 521.12
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66896,7 +66896,7 @@ Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 715.36
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 669.92
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 632.55
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 589.68
@@ -66908,7 +66908,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 609.36
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 583.25
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 554.27
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 492.29
@@ -66920,7 +66920,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 12 | Nota de Corte: 694.67
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 664.08
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 629.33
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 594.52
@@ -66932,7 +66932,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 700.63
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 649.21
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 621.51
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 457.67
@@ -66944,7 +66944,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 12 | Nota de Corte: 686.08
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 656.16
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 605.79
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 545.82
@@ -66956,7 +66956,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 548.96
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 533.31
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 502.36
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -66968,7 +66968,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 15 | Nota de Corte: 567.23
 	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 558.71
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 524.11
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 490.92
@@ -66980,7 +66980,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 606.20
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 589.14
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 568.32
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 399.42
@@ -66992,7 +66992,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 22 | Nota de Corte: 629.52
 	RENDA + EP:
 		Vagas: 10 | Nota de Corte: 595.40
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 10 | Nota de Corte: 561.39
 	PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 422.56
@@ -67004,7 +67004,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 563.58
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 548.48
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 524.31
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 441.79
@@ -67016,7 +67016,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 602.97
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 573.04
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 539.77
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -67028,7 +67028,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 598.14
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 573.00
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 550.92
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -67040,7 +67040,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 578.84
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 568.14
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 534.19
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -67052,7 +67052,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 12 | Nota de Corte: 787.13
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 746.98
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 722.01
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 688.38
@@ -67064,7 +67064,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 574.62
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 562.14
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 541.27
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 471.27
@@ -67076,7 +67076,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 12 | Nota de Corte: 700.77
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 663.66
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 620.78
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 588.86
@@ -67088,7 +67088,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=4.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 558.84
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 541.29
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 484.99
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -67100,7 +67100,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 562.84
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 531.49
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 508.38
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 394.47
@@ -67112,7 +67112,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 557.17
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 555.72
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 524.98
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 403.21
@@ -67127,7 +67127,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 629.67
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 613.08
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 564.92
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 451.49
@@ -67139,7 +67139,7 @@ Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 706.23
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 664.45
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 634.31
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 552.34
@@ -67151,7 +67151,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 563.72
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 548.49
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 529.54
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 434.80
@@ -67163,7 +67163,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 581.31
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 564.82
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 534.19
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -67175,7 +67175,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 557.94
 	RENDA + EP:
 		Vagas: 9 | Nota de Corte: 541.53
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 515.97
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -67187,7 +67187,7 @@ Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 572.80
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 563.34
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 530.71
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 445.08
@@ -67202,7 +67202,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=5.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 17 | Nota de Corte: 536.79
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 515.26
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 483.88
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 459.14
@@ -67214,7 +67214,7 @@ Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=3.00 | Mínimo: NAT=20.00, HU
 		Vagas: 17 | Nota de Corte: 548.93
 	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 531.43
-	PPI/QUILOMBOLA + EP + RENDA:
+	PPI/QUILOMBOLA + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 478.11
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 461.47
@@ -69888,12 +69888,6 @@ Total de Vagas: 3
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=680.00
 	AC:
 		Vagas: 3 | Nota de Corte: 730.59
-
-ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
-Total de Vagas: 3
-Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=680.00
-	AC:
-		Vagas: 3 | Nota de Corte: .00
 
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
 Total de Vagas: 3
@@ -76179,7 +76173,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 12 | Nota de Corte: 619.21
 	PPI + RENDA:
 		Vagas: 12 | Nota de Corte: 594.89
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 6 | Nota de Corte: 512.19
 
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Integral
@@ -76191,7 +76185,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 12 | Nota de Corte: 629.43
 	PPI + RENDA:
 		Vagas: 12 | Nota de Corte: 622.31
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 6 | Nota de Corte: 579.04
 
 CIÊNCIAS BIOLÓGICAS - BIOTECNOLOGIA E PRODUÇÃO, Bacharelado, Integral
@@ -76203,7 +76197,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 12 | Nota de Corte: 593.08
 	PPI + RENDA:
 		Vagas: 12 | Nota de Corte: 554.28
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 6 | Nota de Corte: .00
 
 CONSTRUÇÃO NAVAL, Tecnológico, Integral
@@ -76215,7 +76209,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 12 | Nota de Corte: 549.13
 	PPI + RENDA:
 		Vagas: 12 | Nota de Corte: 523.53
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 6 | Nota de Corte: .00
 
 ENGENHARIA DE MATERIAIS, Bacharelado, Integral
@@ -76227,7 +76221,7 @@ Pesos: NAT=4.00, HUM=1.00, LIN=3.00, MAT=5.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 6 | Nota de Corte: 547.95
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: 531.58
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
@@ -76239,7 +76233,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=5.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 10 | Nota de Corte: 595.99
 	PPI + RENDA:
 		Vagas: 10 | Nota de Corte: 585.08
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 5 | Nota de Corte: 521.71
 
 ENGENHARIA METALÚRGICA, Bacharelado, Integral
@@ -76251,7 +76245,7 @@ Pesos: NAT=4.00, HUM=1.00, LIN=3.00, MAT=5.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 6 | Nota de Corte: 559.32
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: 532.77
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 FARMÁCIA, Bacharelado, Integral
@@ -76263,7 +76257,7 @@ Pesos: NAT=4.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 12 | Nota de Corte: 605.32
 	PPI + RENDA:
 		Vagas: 12 | Nota de Corte: 582.22
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 6 | Nota de Corte: 514.11
 
 ==================================================
@@ -77449,7 +77443,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 4 | Nota de Corte: 632.16
 	PPI + RENDA:
 		Vagas: 4 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 
 AGRONOMIA, Bacharelado, Integral
@@ -77461,7 +77455,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 10 | Nota de Corte: 545.31
 	PPI + RENDA:
 		Vagas: 10 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Integral
@@ -77473,7 +77467,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 5 | Nota de Corte: 654.59
 	PPI + RENDA:
 		Vagas: 5 | Nota de Corte: 625.32
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS , Bacharelado, Integral
@@ -77485,7 +77479,7 @@ Pesos: NAT=4.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 16 | Nota de Corte: 597.10
 	PPI + RENDA:
 		Vagas: 16 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 4 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS , Licenciatura, Noturno
@@ -77497,7 +77491,7 @@ Pesos: NAT=4.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 8 | Nota de Corte: 575.30
 	PPI + RENDA:
 		Vagas: 8 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 CIÊNCIAS SOCIAIS, Bacharelado, Integral
@@ -77509,7 +77503,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=1.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 6 | Nota de Corte: 576.53
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: 552.93
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA CIVIL, Bacharelado, Integral
@@ -77521,7 +77515,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 6 | Nota de Corte: 655.61
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: 607.23
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: 530.15
 
 ENGENHARIA DE PETRÓLEO, Bacharelado, Integral
@@ -77533,7 +77527,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 5 | Nota de Corte: 613.58
 	PPI + RENDA:
 		Vagas: 5 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
@@ -77545,7 +77539,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 6 | Nota de Corte: 630.08
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: 585.73
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 1 | Nota de Corte: 560.02
 
 ENGENHARIA METALÚRGICA, Bacharelado, Integral
@@ -77557,7 +77551,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 6 | Nota de Corte: 579.19
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: 542.93
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 FÍSICA, Licenciatura, Noturno
@@ -77567,7 +77561,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=550.00, H
 		Vagas: 6 | Nota de Corte: .00
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 	AC:
 		Vagas: 16 | Nota de Corte: .00
@@ -77579,7 +77573,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=4.00, RED=2.00 | Mínimo: NAT=550.00, H
 		Vagas: 6 | Nota de Corte: .00
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 	AC:
 		Vagas: 16 | Nota de Corte: .00
@@ -77593,7 +77587,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 8 | Nota de Corte: 671.15
 	PPI + RENDA:
 		Vagas: 8 | Nota de Corte: 626.65
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: 597.36
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -77605,7 +77599,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 568.43
 	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 568.13
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 QUÍMICA, Licenciatura, Noturno
@@ -77617,7 +77611,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 6 | Nota de Corte: 556.98
 	PPI + RENDA:
 		Vagas: 6 | Nota de Corte: 506.35
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 ZOOTECNIA, Bacharelado, Integral
@@ -77629,7 +77623,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 		Vagas: 8 | Nota de Corte: 573.24
 	PPI + RENDA:
 		Vagas: 8 | Nota de Corte: .00
-	PCD:
+	PCD/SOLDADO + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
@@ -83357,7 +83351,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 625.70
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 609.78
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 581.08
 
 LETRAS - ESPANHOL, Licenciatura, Matutino
@@ -83369,7 +83363,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 2 | Nota de Corte: 630.18
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 617.63
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 1 | Nota de Corte: 596.17
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 589.08
@@ -83389,7 +83383,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 3 | Nota de Corte: 632.32
 	PPI + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 611.67
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 1 | Nota de Corte: 530.05
 
 MATEMÁTICA - LICENCIATURA OU BACHARELADO, Área Básica de Ingresso (ABI), Noturno
@@ -83405,7 +83399,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 4 | Nota de Corte: 596.17
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 591.82
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 523.73
 
 PEDAGOGIA, Licenciatura, Vespertino
@@ -83421,7 +83415,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 614.78
 	PPI + EP:
 		Vagas: 6 | Nota de Corte: 610.27
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 560.72
 
 TURISMO, Bacharelado, Noturno
@@ -83454,7 +83448,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=3.00, MAT=4.00, RED=1.00 | Mínimo: NAT=100.00, H
 		Vagas: 4 | Nota de Corte: 572.68
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 543.16
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 481.04
 
 ADMINISTRAÇÃO, Bacharelado, Integral
@@ -83538,7 +83532,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 5 | Nota de Corte: 548.18
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 546.20
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS - LICENCIATURA OU BACHARELADO, Área Básica de Ingresso (ABI), Integral
@@ -83554,7 +83548,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 4 | Nota de Corte: 637.90
 	PPI + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 619.40
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 577.10
 
 CIÊNCIAS ECONÔMICAS, Bacharelado, Integral
@@ -83586,7 +83580,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 591.40
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 571.75
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 492.33
 
 DIREITO, Bacharelado, Noturno
@@ -83618,7 +83612,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 7 | Nota de Corte: 607.52
 	PPI + RENDA + EP:
 		Vagas: 7 | Nota de Corte: 600.57
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 3 | Nota de Corte: 507.80
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 506.12
@@ -83746,7 +83740,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 572.13
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 569.18
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 503.07
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 497.98
@@ -83764,7 +83758,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 576.03
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 567.88
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 475.92
 
 GEOLOGIA, Bacharelado, Integral
@@ -83794,7 +83788,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 7 | Nota de Corte: 617.21
 	PPI + EP:
 		Vagas: 7 | Nota de Corte: 606.16
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 3 | Nota de Corte: 588.74
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 562.54
@@ -83844,7 +83838,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 2 | Nota de Corte: 646.52
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 636.27
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 1 | Nota de Corte: 624.10
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 613.22
@@ -83864,7 +83858,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 4 | Nota de Corte: 603.05
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 601.83
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 1 | Nota de Corte: 528.22
 
 MATEMÁTICA - LICENCIATURA OU BACHARELADO, Área Básica de Ingresso (ABI), Integral
@@ -83884,12 +83878,12 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.50, MAT=3.00, RED=1.50 | Mínimo: NAT=100.00, H
 		Vagas: 1 | Nota de Corte: 507.11
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 433.97
+	PROFESSOR:
+		Vagas: 3 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
-		Vagas: 3 | Nota de Corte: .00
 
 MEDICINA VETERINÁRIA, Bacharelado, Integral
 Total de Vagas: 70
@@ -83926,7 +83920,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 596.25
 	PPI + EP:
 		Vagas: 6 | Nota de Corte: 594.70
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: 486.22
 
 QUÍMICA - LICENCIATURA OU BACHARELADO, Área Básica de Ingresso (ABI), Integral
@@ -83942,7 +83936,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 573.35
 	PPI + EP:
 		Vagas: 6 | Nota de Corte: 561.33
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: .00
 
 QUÍMICA - LICENCIATURA OU BACHARELADO, Área Básica de Ingresso (ABI), Noturno
@@ -83958,7 +83952,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=100.00, H
 		Vagas: 6 | Nota de Corte: 571.07
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 544.17
-	Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.:
+	PROFESSOR:
 		Vagas: 2 | Nota de Corte: .00
 
 RELAÇÕES INTERNACIONAIS, Bacharelado, Noturno
@@ -106010,9 +106004,9 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 41 | Nota de Corte: 609.88
 	TRANS:
 		Vagas: 4 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: .00
@@ -106040,13 +106034,13 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 41 | Nota de Corte: 632.25
 	PPI + RENDA + EP:
 		Vagas: 41 | Nota de Corte: 613.72
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 550.75
 	PPI + PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 524.59
 	TRANS:
 		Vagas: 4 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 3 | Nota de Corte: .00
@@ -106074,9 +106068,9 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 6 | Nota de Corte: 572.85
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -106106,9 +106100,9 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -106141,9 +106135,9 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: 553.95
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -106173,9 +106167,9 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: .00
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -106205,9 +106199,9 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 15 | Nota de Corte: 615.05
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -106239,9 +106233,9 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: 606.19
 	PCD + EP:
 		Vagas: 2 | Nota de Corte: 506.65
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -106269,9 +106263,9 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -106307,9 +106301,9 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: 545.48
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
+	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
-	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
