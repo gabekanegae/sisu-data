@@ -30,7 +30,7 @@ for i, instituicao in enumerate(instituicoes):
         curso_nome = r['no_curso']
         curso_grau = r['no_grau']
         curso_turno = r['no_turno']
-        vagas_totais = r['qt_vagas_sem1']
+        vagas_totais = str(int(r['qt_vagas_sem1']) + int(r['qt_vagas_sem2']))
 
         campus_nome = r['no_campus']
         campus_cidade = r['no_municipio_campus']
