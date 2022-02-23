@@ -999,7 +999,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS (IFAL) - CAMPU
 LETRAS - PORTUGUÊS, Licenciatura, Vespertino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=300.00, TOTAL=60.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 598.51
 	AC:
 		Vagas: 20 | Nota de Corte: 598.51
@@ -1019,7 +1019,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=300.00, TOTAL=60.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 682.30
 	AC:
 		Vagas: 20 | Nota de Corte: 682.30
@@ -1042,7 +1042,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS (IFAL) - CAMPU
 ALIMENTOS, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=300.00, TOTAL=60.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 604.49
 	AC:
 		Vagas: 15 | Nota de Corte: 604.49
@@ -1062,7 +1062,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=300.00, TOTAL=60.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 619.48
 	AC:
 		Vagas: 20 | Nota de Corte: 619.48
@@ -1132,7 +1132,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 GESTÃO DE TURISMO, Tecnológico, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=200.00, TOTAL=40.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 609.42
 	AC:
 		Vagas: 20 | Nota de Corte: 609.42
@@ -1152,7 +1152,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 HOTELARIA, Tecnológico, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=200.00, TOTAL=40.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 586.62
 	AC:
 		Vagas: 20 | Nota de Corte: 586.62
@@ -1190,7 +1190,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 612.99
 	AC:
 		Vagas: 20 | Nota de Corte: 612.99
@@ -1249,7 +1249,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS (IFAL) - CAMPU
 GESTÃO AMBIENTAL, Tecnológico, Matutino
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=1.00 | Mínimo: NAT=400.00, HUM=200.00, LIN=200.00, MAT=200.00, RED=200.00, TOTAL=240.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 564.39
 	AC:
 		Vagas: 20 | Nota de Corte: 564.39
@@ -1272,7 +1272,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS (IFAL) - CAMPU
 ENGENHARIA CIVIL, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=200.00, HUM=200.00, LIN=200.00, MAT=400.00, RED=200.00, TOTAL=240.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 706.20
 	AC:
 		Vagas: 15 | Nota de Corte: 706.20
@@ -1292,7 +1292,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=200.00, H
 ENGENHARIA ELÉTRICA, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=200.00, HUM=200.00, LIN=200.00, MAT=400.00, RED=200.00, TOTAL=240.00
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 678.73
 	AC:
 		Vagas: 15 | Nota de Corte: 678.73
@@ -1315,7 +1315,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS (IFAL) - CAMPU
 ENGENHARIA AGRONÔMICA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 596.46
 	AC:
 		Vagas: 20 | Nota de Corte: 596.46
@@ -1339,7 +1339,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 3 | Nota de Corte: 547.14
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 535.29
-	Critério de Inclusão Regional (bônus de 10%) (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 532.34
 	AC:
 		Vagas: 20 | Nota de Corte: 532.34
@@ -1669,11 +1669,11 @@ UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS - UNCISAL (UNCISAL) - CA
 ALIMENTOS, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 15 | Nota de Corte: 588.53
+	REGIONAL (+5.00%):
+		Vagas: 15 | Nota de Corte: 588.53
 	AC:
-		Vagas: 15 | Nota de Corte: 588.53
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 15 | Nota de Corte: 588.53
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 15 | Nota de Corte: 588.53
 	EP:
 		Vagas: 15 | Nota de Corte: 536.20
@@ -1681,11 +1681,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 ENFERMAGEM, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 20 | Nota de Corte: 727.61
+	REGIONAL (+5.00%):
+		Vagas: 20 | Nota de Corte: 727.61
 	AC:
-		Vagas: 20 | Nota de Corte: 727.61
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 20 | Nota de Corte: 727.61
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 20 | Nota de Corte: 727.61
 	EP:
 		Vagas: 20 | Nota de Corte: 657.92
@@ -1693,11 +1693,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 FISIOTERAPIA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 20 | Nota de Corte: 710.09
+	REGIONAL (+5.00%):
+		Vagas: 20 | Nota de Corte: 710.09
 	AC:
-		Vagas: 20 | Nota de Corte: 710.09
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 20 | Nota de Corte: 710.09
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 20 | Nota de Corte: 710.09
 	EP:
 		Vagas: 20 | Nota de Corte: 651.90
@@ -1705,11 +1705,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 FONOAUDIOLOGIA, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 15 | Nota de Corte: 693.19
+	REGIONAL (+5.00%):
+		Vagas: 15 | Nota de Corte: 693.19
 	AC:
-		Vagas: 15 | Nota de Corte: 693.19
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 15 | Nota de Corte: 693.19
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 15 | Nota de Corte: 693.19
 	EP:
 		Vagas: 15 | Nota de Corte: 632.88
@@ -1717,11 +1717,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 GESTÃO HOSPITALAR, Tecnológico, EaD
 Total de Vagas: 25
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 25 | Nota de Corte: 653.30
+	REGIONAL (+5.00%):
+		Vagas: 25 | Nota de Corte: 653.30
 	AC:
-		Vagas: 25 | Nota de Corte: 653.30
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 25 | Nota de Corte: 653.30
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 25 | Nota de Corte: 653.30
 	EP:
 		Vagas: 25 | Nota de Corte: 603.26
@@ -1729,11 +1729,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 25 | Nota de Corte: 824.27
+	REGIONAL (+5.00%):
+		Vagas: 25 | Nota de Corte: 824.27
 	AC:
-		Vagas: 25 | Nota de Corte: 824.27
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 25 | Nota de Corte: 824.27
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 25 | Nota de Corte: 824.27
 	EP:
 		Vagas: 25 | Nota de Corte: 769.42
@@ -1741,11 +1741,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 RADIOLOGIA, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 30 | Nota de Corte: 642.68
+	REGIONAL (+5.00%):
+		Vagas: 30 | Nota de Corte: 642.68
 	AC:
-		Vagas: 30 | Nota de Corte: 642.68
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 30 | Nota de Corte: 642.68
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 30 | Nota de Corte: 642.68
 	EP:
 		Vagas: 30 | Nota de Corte: 581.98
@@ -1753,11 +1753,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 SEGURANÇA NO TRABALHO, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 15 | Nota de Corte: 613.50
+	REGIONAL (+5.00%):
+		Vagas: 15 | Nota de Corte: 613.50
 	AC:
-		Vagas: 15 | Nota de Corte: 613.50
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 15 | Nota de Corte: 613.50
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 15 | Nota de Corte: 613.50
 	EP:
 		Vagas: 15 | Nota de Corte: 555.72
@@ -1765,11 +1765,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 SISTEMAS PARA INTERNET, Tecnológico, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 15 | Nota de Corte: 625.38
+	REGIONAL (+5.00%):
+		Vagas: 15 | Nota de Corte: 625.38
 	AC:
-		Vagas: 15 | Nota de Corte: 625.38
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 15 | Nota de Corte: 625.38
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 15 | Nota de Corte: 625.38
 	EP:
 		Vagas: 15 | Nota de Corte: 575.54
@@ -1777,11 +1777,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 TERAPIA OCUPACIONAL, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
+	REGIONAL (+4.00%):
+		Vagas: 20 | Nota de Corte: 673.74
+	REGIONAL (+5.00%):
+		Vagas: 20 | Nota de Corte: 673.74
 	AC:
-		Vagas: 20 | Nota de Corte: 673.74
-	5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+5.00%):
-		Vagas: 20 | Nota de Corte: 673.74
-	4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas. (+4.00%):
 		Vagas: 20 | Nota de Corte: 673.74
 	EP:
 		Vagas: 20 | Nota de Corte: 601.92
@@ -1792,7 +1792,7 @@ UNIVERSIDADE FEDERAL DE ALAGOAS (UFAL) - CAMPUS ARAPIRACA - SEDE, Arapiraca, AL
 ADMINISTRAÇÃO PÚBLICA, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 640.40
 	AC:
 		Vagas: 20 | Nota de Corte: 640.40
@@ -1812,7 +1812,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 707.45
 	AC:
 		Vagas: 25 | Nota de Corte: 707.45
@@ -1832,7 +1832,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Matutino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 667.88
 	AC:
 		Vagas: 25 | Nota de Corte: 667.88
@@ -1852,7 +1852,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 FÍSICA, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 593.49
 	AC:
 		Vagas: 25 | Nota de Corte: 593.49
@@ -1872,7 +1872,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 636.11
 	AC:
 		Vagas: 20 | Nota de Corte: 636.11
@@ -1892,7 +1892,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 MATEMÁTICA, Licenciatura, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 617.56
 	AC:
 		Vagas: 25 | Nota de Corte: 617.56
@@ -1912,7 +1912,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 847.64
 	AC:
 		Vagas: 15 | Nota de Corte: 847.64
@@ -1932,7 +1932,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 ZOOTECNIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 614.77
 	AC:
 		Vagas: 25 | Nota de Corte: 614.77
@@ -1955,7 +1955,7 @@ UNIVERSIDADE FEDERAL DE ALAGOAS (UFAL) - CAMPUS DO SERTÃO - SEDE, Delmiro Gouve
 ENGENHARIA CIVIL, Bacharelado, Matutino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 685.04
 	AC:
 		Vagas: 25 | Nota de Corte: 685.04
@@ -1975,7 +1975,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 GEOGRAFIA, Licenciatura, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 610.35
 	AC:
 		Vagas: 25 | Nota de Corte: 610.35
@@ -3084,7 +3084,7 @@ UNIVERSIDADE FEDERAL DE ALAGOAS (UFAL) - CAMPUS ARAPIRACA - UNIDADE EDUCACIONAL 
 SERVIÇO SOCIAL, Bacharelado, Vespertino
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 639.41
 	AC:
 		Vagas: 25 | Nota de Corte: 639.41
@@ -3107,7 +3107,7 @@ UNIVERSIDADE FEDERAL DE ALAGOAS (UFAL) - CAMPUS ARAPIRACA - UNIDADE EDUCACIONAL 
 ENGENHARIA DE PESCA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 562.30
 	AC:
 		Vagas: 25 | Nota de Corte: 562.30
@@ -3127,7 +3127,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 631.38
 	AC:
 		Vagas: 25 | Nota de Corte: 631.38
@@ -3261,7 +3261,7 @@ UNIVERSIDADE FEDERAL DE ALAGOAS (UFAL) - CAMPUS DO SERTÃO - UNIDADE EDUCACIONAL
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 25 | Nota de Corte: 611.27
 	AC:
 		Vagas: 25 | Nota de Corte: 611.27
@@ -3284,7 +3284,7 @@ UNIVERSIDADE FEDERAL DE ALAGOAS (UFAL) - CAMPUS CECA, Viçosa, AL
 AGROECOLOGIA, Tecnológico, Integral
 Total de Vagas: 60
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 30 | Nota de Corte: 541.93
 	AC:
 		Vagas: 30 | Nota de Corte: 541.93
@@ -3304,7 +3304,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 MEDICINA VETERINÁRIA, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	Critério de Inclusão Regional (Bônus de 10%), de acordo com a Resolução nº 22/2015 - CONSUNI/UFAL, de 04 de maio de 2015. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 721.04
 	AC:
 		Vagas: 15 | Nota de Corte: 721.04
@@ -9813,9 +9813,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Vespertino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 665.85
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 665.85
 	AC:
 		Vagas: 17 | Nota de Corte: 665.85
@@ -9842,9 +9842,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 710.56
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 710.56
 	AC:
 		Vagas: 15 | Nota de Corte: 710.56
@@ -9868,9 +9868,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA DE AQUICULTURA, Bacharelado, Matutino
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 649.37
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 649.37
 	AC:
 		Vagas: 20 | Nota de Corte: 649.37
@@ -9896,9 +9896,9 @@ Total de Vagas: 30
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	RENDA + EP:
 		Vagas: 1 | Nota de Corte: 652.91
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 643.56
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 643.56
 	AC:
 		Vagas: 15 | Nota de Corte: 643.56
@@ -9922,9 +9922,9 @@ Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	EP:
 		Vagas: 1 | Nota de Corte: 672.64
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 653.19
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 653.19
 	AC:
 		Vagas: 15 | Nota de Corte: 653.19
@@ -9949,9 +9949,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 GASTRONOMIA, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 681.59
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Baturité do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 681.59
 	AC:
 		Vagas: 17 | Nota de Corte: 681.59
@@ -9975,9 +9975,9 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 HOTELARIA, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 647.82
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Baturité do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 647.82
 	AC:
 		Vagas: 17 | Nota de Corte: 647.82
@@ -10001,9 +10001,9 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 682.07
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Baturité do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 682.07
 	AC:
 		Vagas: 20 | Nota de Corte: 682.07
@@ -10030,9 +10030,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 GESTÃO DE TURISMO, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 673.84
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 673.84
 	AC:
 		Vagas: 17 | Nota de Corte: 673.84
@@ -10056,9 +10056,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Vespertino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 701.17
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 701.17
 	AC:
 		Vagas: 15 | Nota de Corte: 701.17
@@ -10082,9 +10082,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 REDES DE COMPUTADORES, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 690.78
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sertão Central  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 690.78
 	AC:
 		Vagas: 17 | Nota de Corte: 690.78
@@ -10111,9 +10111,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 730.21
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 730.21
 	AC:
 		Vagas: 17 | Nota de Corte: 730.21
@@ -10137,9 +10137,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 705.00
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 705.00
 	AC:
 		Vagas: 17 | Nota de Corte: 705.00
@@ -10166,9 +10166,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 638.10
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 638.10
 	AC:
 		Vagas: 15 | Nota de Corte: 638.10
@@ -10192,9 +10192,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=10.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 653.92
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 653.92
 	AC:
 		Vagas: 15 | Nota de Corte: 653.92
@@ -10218,9 +10218,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MECATRÔNICA INDUSTRIAL, Tecnológico, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 657.53
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 657.53
 	AC:
 		Vagas: 15 | Nota de Corte: 657.53
@@ -10244,9 +10244,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 710.15
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 710.15
 	AC:
 		Vagas: 15 | Nota de Corte: 710.15
@@ -10380,9 +10380,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 786.77
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 786.77
 	AC:
 		Vagas: 15 | Nota de Corte: 786.77
@@ -10406,9 +10406,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ZOOTECNIA, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 704.40
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 704.40
 	AC:
 		Vagas: 15 | Nota de Corte: 704.40
@@ -10435,9 +10435,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 TEATRO, Licenciatura, Vespertino
 Total de Vagas: 25
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 12 | Nota de Corte: 773.56
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 12 | Nota de Corte: 773.56
 	AC:
 		Vagas: 12 | Nota de Corte: 773.56
@@ -10462,9 +10462,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ENGENHARIA AGRÍCOLA, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 706.78
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 706.78
 	AC:
 		Vagas: 15 | Nota de Corte: 706.78
@@ -10488,9 +10488,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=1.00, HUM
 GEOGRAFIA, Licenciatura, Matutino
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 683.15
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 683.15
 	AC:
 		Vagas: 15 | Nota de Corte: 683.15
@@ -10514,9 +10514,9 @@ Pesos: NAT=1.00, HUM=3.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 656.40
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 656.40
 	AC:
 		Vagas: 15 | Nota de Corte: 656.40
@@ -10542,9 +10542,9 @@ Total de Vagas: 35
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	EP:
 		Vagas: 1 | Nota de Corte: 739.53
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 711.47
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 711.47
 	AC:
 		Vagas: 17 | Nota de Corte: 711.47
@@ -10569,9 +10569,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 639.75
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 639.75
 	AC:
 		Vagas: 15 | Nota de Corte: 639.75
@@ -10595,9 +10595,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 REDES DE COMPUTADORES, Tecnológico, Matutino
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 633.67
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 633.67
 	AC:
 		Vagas: 15 | Nota de Corte: 633.67
@@ -10624,9 +10624,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 AUTOMAÇÃO INDUSTRIAL, Tecnológico, Noturno
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 737.93
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 737.93
 	AC:
 		Vagas: 17 | Nota de Corte: 737.93
@@ -10650,9 +10650,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 CONSTRUÇÃO DE EDIFÍCIOS, Tecnológico, Vespertino
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 704.87
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 704.87
 	AC:
 		Vagas: 20 | Nota de Corte: 704.87
@@ -10676,9 +10676,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 716.39
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 716.39
 	AC:
 		Vagas: 17 | Nota de Corte: 716.39
@@ -10702,9 +10702,9 @@ Pesos: NAT=3.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA AMBIENTAL, Bacharelado, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 731.34
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 731.34
 	AC:
 		Vagas: 17 | Nota de Corte: 731.34
@@ -10728,9 +10728,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 728.17
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Cariri-Centro Sul do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 728.17
 	AC:
 		Vagas: 17 | Nota de Corte: 728.17
@@ -10757,9 +10757,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 673.41
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 673.41
 	AC:
 		Vagas: 20 | Nota de Corte: 673.41
@@ -10783,9 +10783,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=1.00, HUM
 ALIMENTOS, Tecnológico, Matutino
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 667.83
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 667.83
 	AC:
 		Vagas: 20 | Nota de Corte: 667.83
@@ -10809,9 +10809,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 703.01
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 703.01
 	AC:
 		Vagas: 20 | Nota de Corte: 703.01
@@ -10835,9 +10835,9 @@ Pesos: NAT=2.00, HUM=3.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MECATRÔNICA INDUSTRIAL, Tecnológico, Matutino
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 670.81
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 670.81
 	AC:
 		Vagas: 20 | Nota de Corte: 670.81
@@ -10861,9 +10861,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MÚSICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 640.85
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 640.85
 	AC:
 		Vagas: 20 | Nota de Corte: 640.85
@@ -10887,9 +10887,9 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=3.00 | Mínimo: NAT=1.00, HUM
 NUTRIÇÃO, Bacharelado, Vespertino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=1.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 795.85
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 795.85
 	AC:
 		Vagas: 20 | Nota de Corte: 795.85
@@ -10915,9 +10915,9 @@ Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
 	EP:
 		Vagas: 2 | Nota de Corte: 634.08
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 626.66
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Litoral Leste-Jaguaribe do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 626.66
 	AC:
 		Vagas: 20 | Nota de Corte: 626.66
@@ -10942,9 +10942,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Integral
 Total de Vagas: 60
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 30 | Nota de Corte: 848.63
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 30 | Nota de Corte: 848.63
 	AC:
 		Vagas: 30 | Nota de Corte: 848.63
@@ -10968,9 +10968,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA AMBIENTAL E SANITÁRIA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 761.90
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 761.90
 	AC:
 		Vagas: 20 | Nota de Corte: 761.90
@@ -10994,9 +10994,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 ENGENHARIA MECÂNICA, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 15 | Nota de Corte: 818.54
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 15 | Nota de Corte: 818.54
 	AC:
 		Vagas: 15 | Nota de Corte: 818.54
@@ -11020,9 +11020,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 743.84
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 743.84
 	AC:
 		Vagas: 20 | Nota de Corte: 743.84
@@ -11046,9 +11046,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 723.62
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 723.62
 	AC:
 		Vagas: 20 | Nota de Corte: 723.62
@@ -11075,9 +11075,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 718.77
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 718.77
 	AC:
 		Vagas: 17 | Nota de Corte: 718.77
@@ -11101,9 +11101,9 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GESTÃO AMBIENTAL, Tecnológico, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 681.57
-	Candidato (s) que comprovem residência em Fortaleza ou em  um dos municípios da Região Metropolitana  de Fortaleza do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 681.57
 	AC:
 		Vagas: 17 | Nota de Corte: 681.57
@@ -11130,9 +11130,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 ALIMENTOS, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 716.68
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 716.68
 	AC:
 		Vagas: 17 | Nota de Corte: 716.68
@@ -11156,9 +11156,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 FÍSICA, Licenciatura, Vespertino
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 725.45
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 725.45
 	AC:
 		Vagas: 17 | Nota de Corte: 725.45
@@ -11182,9 +11182,9 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 IRRIGAÇÃO E DRENAGEM, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 693.81
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 693.81
 	AC:
 		Vagas: 17 | Nota de Corte: 693.81
@@ -11208,9 +11208,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MATEMÁTICA, Licenciatura, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 773.09
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 773.09
 	AC:
 		Vagas: 17 | Nota de Corte: 773.09
@@ -11234,9 +11234,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 MECATRÔNICA INDUSTRIAL, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 747.89
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 747.89
 	AC:
 		Vagas: 17 | Nota de Corte: 747.89
@@ -11260,9 +11260,9 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 SANEAMENTO AMBIENTAL, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=1.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 708.68
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 708.68
 	AC:
 		Vagas: 17 | Nota de Corte: 708.68
@@ -11318,9 +11318,9 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ (IFCE) - CAMPUS
 AGROINDÚSTRIA, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 693.00
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 693.00
 	AC:
 		Vagas: 17 | Nota de Corte: 693.00
@@ -11344,9 +11344,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 GASTRONOMIA, Tecnológico, Integral
 Total de Vagas: 35
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 717.23
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 717.23
 	AC:
 		Vagas: 17 | Nota de Corte: 717.23
@@ -11370,9 +11370,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=1.00, HUM
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 35
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=.01
-	REGIONAL (+10.00%):
+	REGIONAL (+20.00%):
 		Vagas: 17 | Nota de Corte: 704.64
-	Candidato (s) que comprovem residência em um dos municípios da Macrorregião Sobral-Ibiapaba  do Estado do Ceará, estabelecida pelo IPECE; (+20.00%):
+	REGIONAL (+10.00%):
 		Vagas: 17 | Nota de Corte: 704.64
 	AC:
 		Vagas: 17 | Nota de Corte: 704.64
@@ -11621,7 +11621,7 @@ UNIVERSIDADE FEDERAL DO CARIRI (UFCA) - CAMPUS BARBALHA, Barbalha, CE
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=350.00, TOTAL=.01
-	que residam e tenham cursado e concluído integralmente o ensino médio em instituições de ensino, públicas ou privadas presenciais, localizadas na Região do Cariri Cearense, que optarem pelo instrumento de inclusão regional (Resolução Câmara Acadêmica Nº 01 de 11 de dezembro de 2020) terão bonificação de 4% (quatro por cento) na nota final do ENEM. (+4.00%):
+	REGIONAL (+4.00%):
 		Vagas: 20 | Nota de Corte: 809.16
 	AC:
 		Vagas: 20 | Nota de Corte: 809.16
@@ -38497,7 +38497,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 ENGENHARIA CIVIL, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 691.36
 	AC:
 		Vagas: 20 | Nota de Corte: 691.36
@@ -38521,7 +38521,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 REDES DE COMPUTADORES, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=4.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 552.72
 	AC:
 		Vagas: 20 | Nota de Corte: 552.72
@@ -38545,7 +38545,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=4.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 SISTEMAS PARA INTERNET, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 597.92
 	AC:
 		Vagas: 20 | Nota de Corte: 597.92
@@ -38572,7 +38572,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 ENGENHARIA ELÉTRICA, Bacharelado, Noturno
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 760.78
 	AC:
 		Vagas: 20 | Nota de Corte: 760.78
@@ -38596,7 +38596,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 ENGENHARIA MECÂNICA, Bacharelado, Noturno
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 763.20
 	AC:
 		Vagas: 20 | Nota de Corte: 763.20
@@ -38620,7 +38620,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 SISTEMAS PARA INTERNET, Tecnológico, Matutino
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 718.70
 	AC:
 		Vagas: 20 | Nota de Corte: 718.70
@@ -38644,7 +38644,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 SISTEMAS PARA INTERNET, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 741.46
 	AC:
 		Vagas: 20 | Nota de Corte: 741.46
@@ -38671,7 +38671,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Tecnológico, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 602.01
 	AC:
 		Vagas: 20 | Nota de Corte: 602.01
@@ -38695,7 +38695,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 641.25
 	AC:
 		Vagas: 20 | Nota de Corte: 641.25
@@ -38719,7 +38719,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 PROCESSOS METALÚRGICOS, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 590.22
 	AC:
 		Vagas: 20 | Nota de Corte: 590.22
@@ -38746,7 +38746,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 ALIMENTOS, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 504.88
 	AC:
 		Vagas: 20 | Nota de Corte: 504.88
@@ -38770,7 +38770,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 ENGENHARIA DE PESCA, Bacharelado, Noturno
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=4.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 524.05
 	AC:
 		Vagas: 20 | Nota de Corte: 524.05
@@ -38794,7 +38794,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=4.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 484.86
 	AC:
 		Vagas: 20 | Nota de Corte: 484.86
@@ -38818,7 +38818,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 SISTEMAS PARA INTERNET, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 523.10
 	AC:
 		Vagas: 20 | Nota de Corte: 523.10
@@ -38845,7 +38845,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 JOGOS DIGITAIS, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 642.66
 	AC:
 		Vagas: 20 | Nota de Corte: 642.66
@@ -38872,7 +38872,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 ARQUITETURA E URBANISMO, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=2.50, LIN=1.00, MAT=2.50, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 743.38
 	AC:
 		Vagas: 20 | Nota de Corte: 743.38
@@ -38896,7 +38896,7 @@ Pesos: NAT=1.00, HUM=2.50, LIN=1.00, MAT=2.50, RED=3.00 | Mínimo: NAT=.01, HUM=
 COMPUTAÇÃO, Licenciatura, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=2.00, LIN=1.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 567.12
 	AC:
 		Vagas: 20 | Nota de Corte: 567.12
@@ -38923,7 +38923,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 662.39
 	AC:
 		Vagas: 20 | Nota de Corte: 662.39
@@ -38947,7 +38947,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 598.32
 	AC:
 		Vagas: 20 | Nota de Corte: 598.32
@@ -38974,7 +38974,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 620.28
 	AC:
 		Vagas: 20 | Nota de Corte: 620.28
@@ -38998,7 +38998,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 577.68
 	AC:
 		Vagas: 20 | Nota de Corte: 577.68
@@ -39024,7 +39024,7 @@ Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 515.97
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 511.91
 	AC:
 		Vagas: 20 | Nota de Corte: 511.91
@@ -39049,7 +39049,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 619.33
 	AC:
 		Vagas: 20 | Nota de Corte: 619.33
@@ -39073,7 +39073,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 GESTÃO DO AGRONEGÓCIO, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 559.50
 	AC:
 		Vagas: 20 | Nota de Corte: 559.50
@@ -39100,7 +39100,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL (IF
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Tecnológico, Noturno
 Total de Vagas: 0
 Pesos: NAT=2.00, HUM=1.50, LIN=2.00, MAT=3.00, RED=2.50 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	Candidatos residentes na área de abrangência do IFMS. (+20.00%):
+	REGIONAL (+20.00%):
 		Vagas: 20 | Nota de Corte: 677.07
 	AC:
 		Vagas: 20 | Nota de Corte: 677.07
@@ -43879,7 +43879,7 @@ Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
 	EP:
 		Vagas: 2 | Nota de Corte: 702.08
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 693.25
 	AC:
 		Vagas: 25 | Nota de Corte: 693.25
@@ -43897,7 +43897,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 668.76
 	AC:
 		Vagas: 25 | Nota de Corte: 668.76
@@ -43917,7 +43917,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 BIOLOGIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 700.02
 	AC:
 		Vagas: 25 | Nota de Corte: 700.02
@@ -43939,7 +43939,7 @@ Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
 	EP:
 		Vagas: 2 | Nota de Corte: 696.07
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 684.02
 	AC:
 		Vagas: 25 | Nota de Corte: 684.02
@@ -43957,7 +43957,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 692.97
 	AC:
 		Vagas: 25 | Nota de Corte: 692.97
@@ -43977,7 +43977,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 ENGENHARIA AMBIENTAL E ENERGIAS RENOVÁVEIS, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 698.34
 	AC:
 		Vagas: 25 | Nota de Corte: 698.34
@@ -44000,7 +44000,7 @@ UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA (UFRA) - CAMPUS CAPITÃO POÇO - UFRA, C
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 647.05
 	AC:
 		Vagas: 25 | Nota de Corte: 647.05
@@ -44020,7 +44020,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 BIOLOGIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 665.82
 	AC:
 		Vagas: 25 | Nota de Corte: 665.82
@@ -44040,7 +44040,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 COMPUTAÇÃO, Licenciatura, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 626.78
 	AC:
 		Vagas: 25 | Nota de Corte: 626.78
@@ -44060,7 +44060,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 ENGENHARIA FLORESTAL, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 662.81
 	AC:
 		Vagas: 25 | Nota de Corte: 662.81
@@ -44080,7 +44080,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 640.23
 	AC:
 		Vagas: 25 | Nota de Corte: 640.23
@@ -44103,7 +44103,7 @@ UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA (UFRA) - CAMPUS PARAGOMINAS - UFRA, Para
 ADMINISTRAÇÃO, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 668.52
 	AC:
 		Vagas: 25 | Nota de Corte: 668.52
@@ -44123,7 +44123,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 664.72
 	AC:
 		Vagas: 25 | Nota de Corte: 664.72
@@ -44145,7 +44145,7 @@ Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
 	RENDA + EP:
 		Vagas: 2 | Nota de Corte: 685.45
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 658.55
 	AC:
 		Vagas: 25 | Nota de Corte: 658.55
@@ -44165,7 +44165,7 @@ Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
 	RENDA + EP:
 		Vagas: 2 | Nota de Corte: 683.50
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 637.82
 	AC:
 		Vagas: 25 | Nota de Corte: 637.82
@@ -44183,7 +44183,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 648.90
 	AC:
 		Vagas: 25 | Nota de Corte: 648.90
@@ -44203,7 +44203,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 ZOOTECNIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 657.51
 	AC:
 		Vagas: 25 | Nota de Corte: 657.51
@@ -44226,7 +44226,7 @@ UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA (UFRA) - UFRA- CAMPUS PARAUAPEBAS, Parau
 ADMINISTRAÇÃO, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 682.96
 	AC:
 		Vagas: 25 | Nota de Corte: 682.96
@@ -44246,7 +44246,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 AGRONOMIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 648.87
 	AC:
 		Vagas: 25 | Nota de Corte: 648.87
@@ -44266,7 +44266,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 716.36
 	AC:
 		Vagas: 25 | Nota de Corte: 716.36
@@ -44286,7 +44286,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 ENGENHARIA FLORESTAL, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 659.82
 	AC:
 		Vagas: 25 | Nota de Corte: 659.82
@@ -44306,7 +44306,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 ZOOTECNIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 641.53
 	AC:
 		Vagas: 25 | Nota de Corte: 641.53
@@ -44329,7 +44329,7 @@ UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA (UFRA) - CAMPUS TOMÉ AÇÚ - UFRA, Tom�
 ADMINISTRAÇÃO, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 649.42
 	AC:
 		Vagas: 25 | Nota de Corte: 649.42
@@ -44349,7 +44349,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 BIOLOGIA, Licenciatura, Integral
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 654.03
 	AC:
 		Vagas: 25 | Nota de Corte: 654.03
@@ -44369,7 +44369,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, H
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 645.58
 	AC:
 		Vagas: 25 | Nota de Corte: 645.58
@@ -44391,7 +44391,7 @@ Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
 	EP:
 		Vagas: 2 | Nota de Corte: 655.67
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 649.18
 	AC:
 		Vagas: 25 | Nota de Corte: 649.18
@@ -44411,7 +44411,7 @@ Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=450.00
 	EP:
 		Vagas: 2 | Nota de Corte: 628.30
-	Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba. (+5.00%):
+	REGIONAL (+5.00%):
 		Vagas: 25 | Nota de Corte: 625.75
 	AC:
 		Vagas: 25 | Nota de Corte: 625.75
@@ -50912,7 +50912,7 @@ UNIVERSIDADE DE PERNAMBUCO (UPE) - CAMPUS ARCOVERDE, Arcoverde, PE
 DIREITO, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=400.00, TOTAL=360.00
-	terão direito ao argumento de inclusão regional, para os cursos de Direito e Odontologia oferecidos no Campus Arcoverde, assim como para o curso de Medicina oferecido no Campus Serra Talhada, os candidatos que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais, bem como residirem nas mesorregiões do Sertão Pernambuco ou do São Francisco Pernambucano, identificadas de acordo com a definição do Instituto Brasileiro de Geografia e Estatística ¿ IBGE. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 759.35
 	AC:
 		Vagas: 20 | Nota de Corte: 759.35
@@ -50922,7 +50922,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, H
 ODONTOLOGIA, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=400.00, TOTAL=360.00
-	terão direito ao argumento de inclusão regional, para os cursos de Direito e Odontologia oferecidos no Campus Arcoverde, assim como para o curso de Medicina oferecido no Campus Serra Talhada, os candidatos que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais, bem como residirem nas mesorregiões do Sertão Pernambuco ou do São Francisco Pernambucano, identificadas de acordo com a definição do Instituto Brasileiro de Geografia e Estatística ¿ IBGE. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 8 | Nota de Corte: 790.48
 	AC:
 		Vagas: 8 | Nota de Corte: 790.48
@@ -50935,7 +50935,7 @@ UNIVERSIDADE DE PERNAMBUCO (UPE) - CAMARAGIBE, Camaragibe, PE
 ODONTOLOGIA, Bacharelado, Integral
 Total de Vagas: 25
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=400.00, TOTAL=360.00
-	terão direito ao argumento de inclusão regional, para o curso de Direito oferecido no Campus Benfica, para o curso de Medicina oferecido no Campus Santo Amaro e para o curso de Odontologia oferecido no Campus Camaragibe, os candidatos que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais, bem como residirem nas mesorregiões Metropolitana do Recife e da Mata Pernambucana identificadas de acordo com a definição do Instituto Brasileiro de Geografia e Estatística ¿ IBGE. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 795.37
 	AC:
 		Vagas: 40 | Nota de Corte: 795.37
@@ -51023,7 +51023,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, H
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=400.00, TOTAL=360.00
-	terão direito ao argumento de inclusão regional, para o curso de Medicina oferecido no Campus Garanhuns, os candidatos que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais, bem como residirem na mesorregião do Agreste Pernambuco, identificada de acordo com a definição do Instituto Brasileiro de Geografia e Estatística ¿ IBGE. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 16 | Nota de Corte: 848.76
 	AC:
 		Vagas: 16 | Nota de Corte: 848.76
@@ -51325,7 +51325,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, H
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 38
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=400.00, TOTAL=360.00
-	terão direito ao argumento de inclusão regional, para o curso de Direito oferecido no Campus Benfica, para o curso de Medicina oferecido no Campus Santo Amaro e para o curso de Odontologia oferecido no Campus Camaragibe, os candidatos que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais, bem como residirem nas mesorregiões Metropolitana do Recife e da Mata Pernambucana identificadas de acordo com a definição do Instituto Brasileiro de Geografia e Estatística ¿ IBGE. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 60 | Nota de Corte: 860.95
 	AC:
 		Vagas: 60 | Nota de Corte: 860.95
@@ -51437,7 +51437,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, H
 DIREITO, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=400.00, TOTAL=360.00
-	terão direito ao argumento de inclusão regional, para o curso de Direito oferecido no Campus Benfica, para o curso de Medicina oferecido no Campus Santo Amaro e para o curso de Odontologia oferecido no Campus Camaragibe, os candidatos que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais, bem como residirem nas mesorregiões Metropolitana do Recife e da Mata Pernambucana identificadas de acordo com a definição do Instituto Brasileiro de Geografia e Estatística ¿ IBGE. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 811.29
 	AC:
 		Vagas: 20 | Nota de Corte: 811.29
@@ -51461,7 +51461,7 @@ UNIVERSIDADE DE PERNAMBUCO (UPE) - CAMPUS SERRA TALHADA, Serra Talhada, PE
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=350.00, HUM=350.00, LIN=350.00, MAT=350.00, RED=400.00, TOTAL=360.00
-	terão direito ao argumento de inclusão regional, para os cursos de Direito e Odontologia oferecidos no Campus Arcoverde, assim como para o curso de Medicina oferecido no Campus Serra Talhada, os candidatos que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais, bem como residirem nas mesorregiões do Sertão Pernambuco ou do São Francisco Pernambucano, identificadas de acordo com a definição do Instituto Brasileiro de Geografia e Estatística ¿ IBGE. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 8 | Nota de Corte: 857.98
 	AC:
 		Vagas: 8 | Nota de Corte: 857.98
@@ -51474,7 +51474,7 @@ UNIVERSIDADE FEDERAL DE PERNAMBUCO (UFPE) - CAMPUS DO AGRESTE CARUARU, Caruaru, 
 ADMINISTRAÇÃO, Bacharelado, Matutino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=200.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 672.67
 	AC:
 		Vagas: 40 | Nota de Corte: 672.67
@@ -51498,7 +51498,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=200.00, H
 ADMINISTRAÇÃO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=200.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 687.48
 	AC:
 		Vagas: 40 | Nota de Corte: 687.48
@@ -51522,7 +51522,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=200.00, H
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
 Total de Vagas: 50
 Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=4.00, RED=1.00 | Mínimo: NAT=100.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=300.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 50 | Nota de Corte: 678.18
 	AC:
 		Vagas: 50 | Nota de Corte: 678.18
@@ -51546,7 +51546,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.00, MAT=4.00, RED=1.00 | Mínimo: NAT=100.00, H
 COMUNICAÇÃO SOCIAL, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=100.00, HUM=200.00, LIN=200.00, MAT=100.00, RED=250.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 693.15
 	AC:
 		Vagas: 20 | Nota de Corte: 693.15
@@ -51566,7 +51566,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=100.00, H
 DESIGN, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=2.50, MAT=2.00, RED=2.50 | Mínimo: NAT=350.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=450.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 672.67
 	AC:
 		Vagas: 40 | Nota de Corte: 672.67
@@ -51590,7 +51590,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.50, MAT=2.00, RED=2.50 | Mínimo: NAT=350.00, H
 DESIGN, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=2.50, MAT=2.00, RED=2.50 | Mínimo: NAT=350.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=450.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 692.45
 	AC:
 		Vagas: 40 | Nota de Corte: 692.45
@@ -51614,7 +51614,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=2.50, MAT=2.00, RED=2.50 | Mínimo: NAT=350.00, H
 ENGENHARIA CIVIL, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=300.00, HUM=100.00, LIN=100.00, MAT=300.00, RED=250.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 709.41
 	AC:
 		Vagas: 40 | Nota de Corte: 709.41
@@ -51638,7 +51638,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=300.00, H
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=500.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=500.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 682.67
 	AC:
 		Vagas: 40 | Nota de Corte: 682.67
@@ -51662,7 +51662,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=500.00, H
 FÍSICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=4.00, RED=2.00 | Mínimo: NAT=400.00, HUM=300.00, LIN=300.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 633.13
 	AC:
 		Vagas: 40 | Nota de Corte: 633.13
@@ -51686,7 +51686,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=4.00, RED=2.00 | Mínimo: NAT=400.00, H
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.50, HUM=1.00, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=200.00, HUM=200.00, LIN=200.00, MAT=250.00, RED=250.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 666.33
 	AC:
 		Vagas: 40 | Nota de Corte: 666.33
@@ -51710,7 +51710,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=200.00, H
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 80
 Pesos: NAT=2.50, HUM=2.00, LIN=1.50, MAT=1.50, RED=2.50 | Mínimo: NAT=450.00, HUM=350.00, LIN=450.00, MAT=350.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 859.75
 	AC:
 		Vagas: 40 | Nota de Corte: 859.75
@@ -51734,7 +51734,7 @@ Pesos: NAT=2.50, HUM=2.00, LIN=1.50, MAT=1.50, RED=2.50 | Mínimo: NAT=450.00, H
 PEDAGOGIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=200.00, HUM=200.00, LIN=200.00, MAT=150.00, RED=250.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 643.57
 	AC:
 		Vagas: 40 | Nota de Corte: 643.57
@@ -51758,7 +51758,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=200.00, H
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=1.00 | Mínimo: NAT=200.00, HUM=100.00, LIN=200.00, MAT=200.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 629.57
 	AC:
 		Vagas: 40 | Nota de Corte: 629.57
@@ -53013,7 +53013,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=200.00, H
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 70
 Pesos: NAT=3.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=500.00, HUM=450.00, LIN=500.00, MAT=450.00, RED=450.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 70 | Nota de Corte: 865.67
 	AC:
 		Vagas: 70 | Nota de Corte: 865.67
@@ -53466,7 +53466,7 @@ UNIVERSIDADE FEDERAL DE PERNAMBUCO (UFPE) - CAMPUS VITÓRIA, Vitória de Santo A
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Noturno
 Total de Vagas: 45
 Pesos: NAT=2.50, HUM=1.50, LIN=2.00, MAT=1.50, RED=2.50 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 45 | Nota de Corte: 640.03
 	AC:
 		Vagas: 45 | Nota de Corte: 640.03
@@ -53490,7 +53490,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=2.00, MAT=1.50, RED=2.50 | Mínimo: NAT=400.00, H
 EDUCAÇÃO FÍSICA, Bacharelado, Matutino
 Total de Vagas: 35
 Pesos: NAT=2.50, HUM=1.50, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 35 | Nota de Corte: 652.12
 	AC:
 		Vagas: 35 | Nota de Corte: 652.12
@@ -53514,7 +53514,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=400.00, H
 EDUCAÇÃO FÍSICA, Licenciatura, Vespertino
 Total de Vagas: 45
 Pesos: NAT=2.50, HUM=1.50, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 45 | Nota de Corte: 617.99
 	AC:
 		Vagas: 45 | Nota de Corte: 617.99
@@ -53538,7 +53538,7 @@ Pesos: NAT=2.50, HUM=1.50, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=400.00, H
 ENFERMAGEM, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 30 | Nota de Corte: 731.62
 	AC:
 		Vagas: 30 | Nota de Corte: 731.62
@@ -53558,7 +53558,7 @@ Pesos: NAT=3.00, HUM=1.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=400.00, H
 NUTRIÇÃO, Bacharelado, Matutino
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.50, LIN=2.00, MAT=2.50, RED=1.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 30 | Nota de Corte: 688.83
 	AC:
 		Vagas: 30 | Nota de Corte: 688.83
@@ -53578,7 +53578,7 @@ Pesos: NAT=3.00, HUM=1.50, LIN=2.00, MAT=2.50, RED=1.00 | Mínimo: NAT=400.00, H
 SAÚDE COLETIVA, Bacharelado, Noturno
 Total de Vagas: 30
 Pesos: NAT=2.00, HUM=2.50, LIN=2.00, MAT=1.50, RED=2.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=.01
-	Para os cursos de graduação dos campi Agreste e Vitória: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais das mesorregiões descritas pelo IBGE: I. Zona da Mata pernambucana e II. Agreste pernambucano. Para o curso de Medicina do Campus de Recife: candidatos/as que tiverem cursado e concluído todo o ensino médio em escolas regulares e presenciais no Estado de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 30 | Nota de Corte: 629.21
 	AC:
 		Vagas: 30 | Nota de Corte: 629.21
@@ -53601,7 +53601,7 @@ UNIVERSIDADE FEDERAL DO AGRESTE DE PERNAMBUCO (UFAPE) - UNIDADE SEDE, Garanhuns,
 AGRONOMIA, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=3.50, HUM=1.50, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 620.81
 	AC:
 		Vagas: 20 | Nota de Corte: 620.81
@@ -53625,7 +53625,7 @@ Pesos: NAT=3.50, HUM=1.50, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 AGRONOMIA, Bacharelado, Vespertino
 Total de Vagas: 40
 Pesos: NAT=3.50, HUM=1.50, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 609.23
 	AC:
 		Vagas: 20 | Nota de Corte: 609.23
@@ -53649,7 +53649,7 @@ Pesos: NAT=3.50, HUM=1.50, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.50, HUM=1.50, LIN=3.00, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 688.15
 	AC:
 		Vagas: 40 | Nota de Corte: 688.15
@@ -53673,7 +53673,7 @@ Pesos: NAT=1.50, HUM=1.50, LIN=3.00, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 ENGENHARIA DE ALIMENTOS, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.50, LIN=2.00, MAT=3.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 602.93
 	AC:
 		Vagas: 40 | Nota de Corte: 602.93
@@ -53697,7 +53697,7 @@ Pesos: NAT=3.00, HUM=1.50, LIN=2.00, MAT=3.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 630.87
 	AC:
 		Vagas: 40 | Nota de Corte: 630.87
@@ -53721,7 +53721,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 MEDICINA VETERINÁRIA, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 713.20
 	AC:
 		Vagas: 20 | Nota de Corte: 713.20
@@ -53745,7 +53745,7 @@ Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 MEDICINA VETERINÁRIA, Bacharelado, Vespertino
 Total de Vagas: 40
 Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 709.58
 	AC:
 		Vagas: 20 | Nota de Corte: 709.58
@@ -53769,7 +53769,7 @@ Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 PEDAGOGIA, Licenciatura, Matutino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 623.13
 	AC:
 		Vagas: 20 | Nota de Corte: 623.13
@@ -53793,7 +53793,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 PEDAGOGIA, Licenciatura, Vespertino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 615.84
 	AC:
 		Vagas: 20 | Nota de Corte: 615.84
@@ -53817,7 +53817,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 ZOOTECNIA, Bacharelado, Matutino
 Total de Vagas: 40
 Pesos: NAT=4.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 618.86
 	AC:
 		Vagas: 20 | Nota de Corte: 618.86
@@ -53841,7 +53841,7 @@ Pesos: NAT=4.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 ZOOTECNIA, Bacharelado, Vespertino
 Total de Vagas: 0
 Pesos: NAT=4.00, HUM=1.00, LIN=2.00, MAT=3.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 605.61
 	AC:
 		Vagas: 20 | Nota de Corte: 605.61
@@ -53868,7 +53868,7 @@ UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO (UFRPE) - UNIDADE ACADÊMICA DE BELO JA
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.50, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 664.64
 	AC:
 		Vagas: 40 | Nota de Corte: 664.64
@@ -53892,7 +53892,7 @@ Pesos: NAT=3.00, HUM=1.50, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 ENGENHARIA DE CONTROLE E AUTOMAÇÃO, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.50, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 622.33
 	AC:
 		Vagas: 40 | Nota de Corte: 622.33
@@ -53916,7 +53916,7 @@ Pesos: NAT=3.00, HUM=1.50, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 ENGENHARIA HÍDRICA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.50, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 576.11
 	AC:
 		Vagas: 40 | Nota de Corte: 576.11
@@ -53940,7 +53940,7 @@ Pesos: NAT=3.00, HUM=1.50, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 ENGENHARIA QUÍMICA, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.50, LIN=1.50, MAT=4.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 627.82
 	AC:
 		Vagas: 40 | Nota de Corte: 627.82
@@ -55091,7 +55091,7 @@ UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO (UFRPE) - UNIDADE ACADÊMICA DE SERRA T
 ADMINISTRAÇÃO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=3.50, MAT=3.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 641.09
 	AC:
 		Vagas: 40 | Nota de Corte: 641.09
@@ -55115,7 +55115,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.50, MAT=3.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 AGRONOMIA, Bacharelado, Matutino
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=2.00, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 590.93
 	AC:
 		Vagas: 20 | Nota de Corte: 590.93
@@ -55139,7 +55139,7 @@ Pesos: NAT=3.00, HUM=2.00, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 AGRONOMIA, Bacharelado, Vespertino
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=2.00, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 585.39
 	AC:
 		Vagas: 20 | Nota de Corte: 585.39
@@ -55165,7 +55165,7 @@ Total de Vagas: 40
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
 	RENDA + EP:
 		Vagas: 2 | Nota de Corte: 640.26
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 604.66
 	AC:
 		Vagas: 20 | Nota de Corte: 604.66
@@ -55189,7 +55189,7 @@ Total de Vagas: 0
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
 	RENDA + EP:
 		Vagas: 2 | Nota de Corte: 620.18
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 594.44
 	AC:
 		Vagas: 20 | Nota de Corte: 594.44
@@ -55211,7 +55211,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=2.00, LIN=3.50, MAT=3.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 611.81
 	AC:
 		Vagas: 40 | Nota de Corte: 611.81
@@ -55235,7 +55235,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.50, MAT=3.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 ENGENHARIA DE PESCA, Bacharelado, Matutino
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=2.00, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 552.15
 	AC:
 		Vagas: 20 | Nota de Corte: 552.15
@@ -55259,7 +55259,7 @@ Pesos: NAT=3.00, HUM=2.00, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 ENGENHARIA DE PESCA, Bacharelado, Vespertino
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=2.00, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 538.20
 	AC:
 		Vagas: 20 | Nota de Corte: 538.20
@@ -55283,7 +55283,7 @@ Pesos: NAT=3.00, HUM=2.00, LIN=2.50, MAT=2.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 615.06
 	AC:
 		Vagas: 40 | Nota de Corte: 615.06
@@ -55307,7 +55307,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=4.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 QUÍMICA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 550.63
 	AC:
 		Vagas: 40 | Nota de Corte: 550.63
@@ -55331,7 +55331,7 @@ Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 SISTEMA DE INFORMAÇÃO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.50, LIN=2.50, MAT=3.00, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 40 | Nota de Corte: 627.16
 	AC:
 		Vagas: 40 | Nota de Corte: 627.16
@@ -55355,7 +55355,7 @@ Pesos: NAT=3.00, HUM=1.50, LIN=2.50, MAT=3.00, RED=2.00 | Mínimo: NAT=.00, HUM=
 ZOOTECNIA, Bacharelado, Matutino
 Total de Vagas: 40
 Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 581.19
 	AC:
 		Vagas: 20 | Nota de Corte: 581.19
@@ -55379,7 +55379,7 @@ Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=
 ZOOTECNIA, Bacharelado, Vespertino
 Total de Vagas: 0
 Pesos: NAT=4.00, HUM=1.50, LIN=3.00, MAT=1.50, RED=2.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco. (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 564.92
 	AC:
 		Vagas: 20 | Nota de Corte: 564.92
@@ -73628,7 +73628,7 @@ UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) - CAMPUS AVANÇADO PREFEITO
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 576.60
 	AC:
 		Vagas: 18 | Nota de Corte: 576.60
@@ -73642,7 +73642,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 GEOGRAFIA, Licenciatura, Matutino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 541.93
 	AC:
 		Vagas: 18 | Nota de Corte: 541.93
@@ -73656,7 +73656,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 HISTÓRIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 599.58
 	AC:
 		Vagas: 18 | Nota de Corte: 599.58
@@ -73670,7 +73670,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - INGLÊS, Licenciatura, Noturno
 Total de Vagas: 20
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.00, HUM=.00, LIN=.00, MAT=.00, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 9 | Nota de Corte: 595.69
 	AC:
 		Vagas: 9 | Nota de Corte: 595.69
@@ -73684,7 +73684,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.00, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 602.96
 	AC:
 		Vagas: 13 | Nota de Corte: 602.96
@@ -73698,7 +73698,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 PEDAGOGIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 592.06
 	AC:
 		Vagas: 18 | Nota de Corte: 592.06
@@ -73715,7 +73715,7 @@ UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) - CAMPUS DE CAICÓ, Caicó,
 ENFERMAGEM, Bacharelado, Integral
 Total de Vagas: 36
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 16 | Nota de Corte: 737.17
 	AC:
 		Vagas: 16 | Nota de Corte: 737.17
@@ -73729,7 +73729,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 FILOSOFIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 585.90
 	AC:
 		Vagas: 18 | Nota de Corte: 585.90
@@ -73743,7 +73743,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 ODONTOLOGIA, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 9 | Nota de Corte: 795.92
 	AC:
 		Vagas: 9 | Nota de Corte: 795.92
@@ -73760,7 +73760,7 @@ UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) - CAMPUS UNIVERSITÁRIO CEN
 ABI - EDUCAÇÃO FÍSICA, Área Básica de Ingresso (ABI), Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 36 | Nota de Corte: 656.98
 	AC:
 		Vagas: 36 | Nota de Corte: 656.98
@@ -73774,7 +73774,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 ADMINISTRAÇÃO, Bacharelado, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 634.96
 	AC:
 		Vagas: 20 | Nota de Corte: 634.96
@@ -73788,7 +73788,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Integral
 Total de Vagas: 45
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 19 | Nota de Corte: 664.04
 	AC:
 		Vagas: 19 | Nota de Corte: 664.04
@@ -73802,7 +73802,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS BIOLÓGICAS, Bacharelado, Vespertino
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 9 | Nota de Corte: 697.64
 	AC:
 		Vagas: 9 | Nota de Corte: 697.64
@@ -73816,7 +73816,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Matutino
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 676.62
 	AC:
 		Vagas: 13 | Nota de Corte: 676.62
@@ -73830,7 +73830,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS CONTÁBEIS, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 635.56
 	AC:
 		Vagas: 18 | Nota de Corte: 635.56
@@ -73844,7 +73844,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 650.44
 	AC:
 		Vagas: 18 | Nota de Corte: 650.44
@@ -73858,7 +73858,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS ECONÔMICAS, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 16 | Nota de Corte: 602.34
 	AC:
 		Vagas: 16 | Nota de Corte: 602.34
@@ -73872,7 +73872,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 608.35
 	AC:
 		Vagas: 20 | Nota de Corte: 608.35
@@ -73886,7 +73886,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS SOCIAIS, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 610.95
 	AC:
 		Vagas: 18 | Nota de Corte: 610.95
@@ -73900,7 +73900,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS SOCIAIS, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 589.38
 	AC:
 		Vagas: 18 | Nota de Corte: 589.38
@@ -73914,7 +73914,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 DIREITO, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 782.35
 	AC:
 		Vagas: 18 | Nota de Corte: 782.35
@@ -73928,7 +73928,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 DIREITO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 779.10
 	AC:
 		Vagas: 18 | Nota de Corte: 779.10
@@ -73942,7 +73942,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 FILOSOFIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 575.76
 	AC:
 		Vagas: 18 | Nota de Corte: 575.76
@@ -73956,7 +73956,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 FÍSICA, Licenciatura, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 560.60
 	AC:
 		Vagas: 13 | Nota de Corte: 560.60
@@ -73970,7 +73970,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 GEOGRAFIA, Licenciatura, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 595.50
 	AC:
 		Vagas: 20 | Nota de Corte: 595.50
@@ -73984,7 +73984,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 GESTÃO AMBIENTAL, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 597.34
 	AC:
 		Vagas: 18 | Nota de Corte: 597.34
@@ -73998,7 +73998,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 HISTÓRIA, Licenciatura, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 680.71
 	AC:
 		Vagas: 20 | Nota de Corte: 680.71
@@ -74012,7 +74012,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 JORNALISMO, Bacharelado, Vespertino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 9 | Nota de Corte: 701.51
 	AC:
 		Vagas: 9 | Nota de Corte: 701.51
@@ -74026,7 +74026,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - ESPANHOL, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 576.59
 	AC:
 		Vagas: 13 | Nota de Corte: 576.59
@@ -74040,7 +74040,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - ESPANHOL, Licenciatura, Vespertino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 567.78
 	AC:
 		Vagas: 13 | Nota de Corte: 567.78
@@ -74054,7 +74054,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - INGLÊS, Licenciatura, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 621.18
 	AC:
 		Vagas: 13 | Nota de Corte: 621.18
@@ -74068,7 +74068,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - INGLÊS, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 634.87
 	AC:
 		Vagas: 13 | Nota de Corte: 634.87
@@ -74082,7 +74082,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 618.15
 	AC:
 		Vagas: 13 | Nota de Corte: 618.15
@@ -74096,7 +74096,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 618.20
 	AC:
 		Vagas: 13 | Nota de Corte: 618.20
@@ -74110,7 +74110,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 589.94
 	AC:
 		Vagas: 13 | Nota de Corte: 589.94
@@ -74124,7 +74124,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 MATEMÁTICA, Licenciatura, Vespertino
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 583.79
 	AC:
 		Vagas: 13 | Nota de Corte: 583.79
@@ -74138,7 +74138,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 MEDICINA, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 26 | Nota de Corte: 863.26
 	AC:
 		Vagas: 26 | Nota de Corte: 863.26
@@ -74152,7 +74152,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 MÚSICA, Licenciatura, Noturno
 Total de Vagas: 26
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 11 | Nota de Corte: 617.80
 	AC:
 		Vagas: 11 | Nota de Corte: 617.80
@@ -74166,7 +74166,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 PEDAGOGIA, Licenciatura, Matutino
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 26 | Nota de Corte: 608.37
 	AC:
 		Vagas: 26 | Nota de Corte: 608.37
@@ -74180,7 +74180,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 PEDAGOGIA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 26 | Nota de Corte: 606.28
 	AC:
 		Vagas: 26 | Nota de Corte: 606.28
@@ -74194,7 +74194,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 PUBLICIDADE E PROPAGANDA, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 9 | Nota de Corte: 696.53
 	AC:
 		Vagas: 9 | Nota de Corte: 696.53
@@ -74208,7 +74208,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 QUÍMICA, Licenciatura, Integral
 Total de Vagas: 25
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 545.66
 	AC:
 		Vagas: 20 | Nota de Corte: 545.66
@@ -74222,7 +74222,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 SERVIÇO SOCIAL, Bacharelado, Integral
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 646.59
 	AC:
 		Vagas: 20 | Nota de Corte: 646.59
@@ -74236,7 +74236,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 TURISMO, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 573.95
 	AC:
 		Vagas: 18 | Nota de Corte: 573.95
@@ -74253,7 +74253,7 @@ UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) - UNIVERSIDADE DO ESTADO DO
 ENFERMAGEM, Bacharelado, Integral
 Total de Vagas: 40
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 774.81
 	AC:
 		Vagas: 18 | Nota de Corte: 774.81
@@ -74267,7 +74267,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 RÁDIO, TV E INTERNET, Bacharelado, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 9 | Nota de Corte: 653.63
 	AC:
 		Vagas: 9 | Nota de Corte: 653.63
@@ -74284,7 +74284,7 @@ UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) - CAMPUS AVANÇADO DE NATAL
 CIÊNCIA DA COMPUTAÇÃO, Bacharelado, Integral
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 667.40
 	AC:
 		Vagas: 13 | Nota de Corte: 667.40
@@ -74298,7 +74298,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIA E TECNOLOGIA, Bacharelado, Integral
 Total de Vagas: 50
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 22 | Nota de Corte: 629.05
 	AC:
 		Vagas: 22 | Nota de Corte: 629.05
@@ -74312,7 +74312,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS DA RELIGIÃO, Licenciatura, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 601.75
 	AC:
 		Vagas: 20 | Nota de Corte: 601.75
@@ -74326,7 +74326,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 DIREITO, Bacharelado, Matutino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 782.21
 	AC:
 		Vagas: 18 | Nota de Corte: 782.21
@@ -74340,7 +74340,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 DIREITO, Bacharelado, Noturno
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 768.79
 	AC:
 		Vagas: 18 | Nota de Corte: 768.79
@@ -74354,7 +74354,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 TURISMO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 603.49
 	AC:
 		Vagas: 18 | Nota de Corte: 603.49
@@ -74371,7 +74371,7 @@ UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) - CAMPUS AVANÇADO DE PATU,
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 613.95
 	AC:
 		Vagas: 18 | Nota de Corte: 613.95
@@ -74385,7 +74385,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - PORTUGUÊS, Licenciatura, Matutino
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 562.36
 	AC:
 		Vagas: 18 | Nota de Corte: 562.36
@@ -74399,7 +74399,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 MATEMÁTICA, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 562.42
 	AC:
 		Vagas: 13 | Nota de Corte: 562.42
@@ -74413,7 +74413,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 PEDAGOGIA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 592.79
 	AC:
 		Vagas: 18 | Nota de Corte: 592.79
@@ -74430,7 +74430,7 @@ UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE (UERN) - CAMPUS AVANÇADO PROFESSO
 ADMINISTRAÇÃO, Bacharelado, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 645.83
 	AC:
 		Vagas: 20 | Nota de Corte: 645.83
@@ -74444,7 +74444,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 583.36
 	AC:
 		Vagas: 20 | Nota de Corte: 583.36
@@ -74458,7 +74458,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 612.94
 	AC:
 		Vagas: 18 | Nota de Corte: 612.94
@@ -74472,7 +74472,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 ENFERMAGEM, Bacharelado, Integral
 Total de Vagas: 0
 Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 11 | Nota de Corte: 733.73
 	AC:
 		Vagas: 11 | Nota de Corte: 733.73
@@ -74486,7 +74486,7 @@ Pesos: NAT=3.00, HUM=1.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 GEOGRAFIA, Licenciatura, Integral
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 578.10
 	AC:
 		Vagas: 20 | Nota de Corte: 578.10
@@ -74500,7 +74500,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - ESPANHOL, Licenciatura, Matutino
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 535.96
 	AC:
 		Vagas: 13 | Nota de Corte: 535.96
@@ -74514,7 +74514,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - INGLÊS, Licenciatura, Noturno
 Total de Vagas: 30
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 629.78
 	AC:
 		Vagas: 13 | Nota de Corte: 629.78
@@ -74528,7 +74528,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Matutino
 Total de Vagas: 0
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 13 | Nota de Corte: 590.28
 	AC:
 		Vagas: 13 | Nota de Corte: 590.28
@@ -74542,7 +74542,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Noturno
 Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 18 | Nota de Corte: 600.21
 	AC:
 		Vagas: 18 | Nota de Corte: 600.21
@@ -74556,7 +74556,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 PEDAGOGIA, Licenciatura, Noturno
 Total de Vagas: 46
 Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com requisitos para utilização do Argumento de Inclusão Regional (+10.00%):
+	REGIONAL (+10.00%):
 		Vagas: 20 | Nota de Corte: 614.05
 	AC:
 		Vagas: 20 | Nota de Corte: 614.05
