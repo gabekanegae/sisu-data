@@ -1,94 +1,101 @@
 import csv
+import sys
 import os
-from datetime import datetime
-from time import time
 
 with open('short_category_names.txt', encoding='UTF-8') as f:
     raw_short_category_names = [l.strip().split(' | ') for l in f.readlines()]
-    modNomeReduzido = {k.lower(): v for v, k in raw_short_category_names}
+    short_category_names = {k.lower(): v for v, k in raw_short_category_names}
     
-    assert(len(raw_short_category_names) == len(modNomeReduzido))
+    assert(len(raw_short_category_names) == len(short_category_names))
 
 class Aluno:
     def __init__(self, m):
-        self.codigo, self.nome, self.posicao, self.nota, self.modNome, self.bonus = m
+        self.codigo, self.nome, self.posicao, self.nota, self.mod_nome, self.bonus = m
 
-        # Reduces modality names based on the modNomeReduzido dict
-        modNomeKey = self.modNome.lower()
-        if modNomeKey in modNomeReduzido:
-            self.modNome = modNomeReduzido[modNomeKey]
+        # Reduce category names based on the short_category_names dict
+        key = self.mod_nome.lower()
+        if key in short_category_names:
+            self.mod_nome = short_category_names[key]
 
     def __str__(self):
         s = [
-             "\t{}:".format(self.modNome),
-             "\t\t{:>3}: {:>6} - {}".format(self.posicao, self.nota, self.nome)
+             f'\t{self.mod_nome}:',
+             '\t\t{:>3}: {:>6} - {}'.format(self.posicao, self.nota, self.nome)
             ]
 
-        return "\n".join(s)
+        return '\n'.join(s)
 
 class Curso:
     def __init__(self, info, alunos):
-        self.campusUF, self.iesNome, self.iesSG, self.campusCidade = info[:4]
-        self.campusNome, self.cursoNome, self.cursoGrau, self.cursoTurno, self.vagasTotais = info[4:]
+        self.campus_uf, self.ies_nome, self.ies_sg, self.campus_cidade = info[:4]
+        self.campus_nome, self.curso_nome, self.curso_grau, self.curso_turno, self.vagas_totais = info[4:]
         self.alunos = [Aluno(alunos[i:i+6]) for i in range(0, len(alunos), 6)]
 
     def __str__(self):
         s = [
-             "{} ({}) - {}, {}, {}".format(self.iesNome, self.iesSG, self.campusNome, self.campusCidade, self.campusUF),
-             "{}, {}, {}".format(self.cursoNome, self.cursoGrau, self.cursoTurno),
+             f'{self.ies_nome} ({self.ies_sg}) - {self.campus_nome}, {self.campus_cidade}, {self.campus_uf}',
+             f'{self.curso_nome.strip()}, {self.curso_grau}, {self.curso_turno}'
             ]
 
         alunos = [str(m) for m in self.alunos]
 
         # Only print modality name if it's the first occurence
-        last = alunos[0].split("\n")[0]
+        last = alunos[0].split('\n')[0]
         for i in range(1, len(alunos)):
-            if alunos[i].split("\n")[0] == last:
-                alunos[i] = alunos[i].split("\n")[1]
+            if alunos[i].split('\n')[0] == last:
+                alunos[i] = alunos[i].split('\n')[1]
             else:
-                last = alunos[i].split("\n")[0]
+                last = alunos[i].split('\n')[0]
 
-        return "\n".join(s+alunos)
+        return '\n'.join(s + alunos)
 
-directory = "data"
-filename = input("Filename (without extension): /{}/".format(directory)).strip()
+if len(sys.argv) == 1:
+    print(f'Usage: py {sys.argv[0]} (year)')
+    exit()
 
-t0 = time()
+year = sys.argv[1]
+
+all_courses_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'all_courses.csv'))
+names_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'names.csv'))
+output_txt = os.path.abspath(os.path.join('..', '..', 'reports', year, 'names.txt'))
 
 ##################################################
 
 # Get all course info from .csv file
 try:
-    with open("all_courses.csv", "r", encoding="UTF-8") as csvFile:
-        csvFileReader = csv.reader(csvFile, delimiter=";")
-        cursosInfo = {oferta[-1]: oferta[:-1] for oferta in [tuple(l) for l in csvFileReader]}
+    print(f'Reading file \'{all_courses_csv}\'...')
+    with open(all_courses_csv, mode='r', encoding='UTF-8') as f:
+        csv_file_reader = csv.reader(f, delimiter=';')
+        cursos_info = {oferta[-1]: oferta[:-1] for oferta in map(tuple, csv_file_reader)}
 except FileNotFoundError:
-    print("File /all_courses.csv not found.")
+    print(f'File \'{all_courses_csv}\' not found.')
     exit()
 
 # Read csv and process strings (via class constructors)
+print(f'Reading file \'{names_csv}\'...')
 try:
-    with open(os.path.join(directory, filename + ".csv"), "r", encoding="UTF-8") as csvFile:
-        csvFileReader = csv.reader(csvFile, delimiter=";")
-        cursos = [Curso(cursosInfo[c[0]], c[1:]) for c in csvFileReader]
+    with open(names_csv, mode='r', encoding='UTF-8') as f:
+        csv_file_reader = csv.reader(f, delimiter=';')
+        cursos = [Curso(cursos_info[c[0]], c[1:]) for c in csv_file_reader]
 except FileNotFoundError:
-    print("File /{}/{}.csv not found.".format(directory, filename))
+    print(f'File \'{names_csv}\' not found.')
     exit()
 
 # Sort lexicographically
-cursos = sorted(cursos, key=lambda x: (x.campusUF, x.iesNome, x.iesSG, x.campusCidade, x.campusNome, x.cursoNome))
+cursos.sort(key=lambda x: (x.campus_uf, x.ies_nome, x.ies_sg, x.campus_cidade, x.campus_nome, x.curso_nome))
 
 # Write to .txt
-with open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as humanFile:
+print(f'Writing to \'{output_txt}\'...')
+with open(output_txt, 'w+', encoding='UTF-8') as f:
     for i, curso in enumerate(cursos):
-        nl = str(curso).index("\n")
+        nl = str(curso).index('\n')
 
-        # Only write iesNome if it's the first occurence
-        if i == 0 or (str(curso)[:nl] != str(cursos[i-1]).split("\n")[0]):
-            humanFile.write("="*50 + "\n")
-            humanFile.write(str(curso)[:nl] + "\n")
-            humanFile.write("="*50 + "\n")
-        humanFile.write(str(curso)[nl+1:] + "\n")
-        humanFile.write("\n")
+        # Only write ies_nome if it's the first occurence
+        if i == 0 or (str(curso)[:nl] != str(cursos[i-1]).split('\n')[0]):
+            f.write('='*50 + '\n')
+            f.write(str(curso)[:nl] + '\n')
+            f.write('='*50 + '\n')
+        f.write(str(curso)[nl+1:] + '\n')
+        f.write('\n')
 
-print("Written {} courses to '{}.txt' in {:.1f}s.".format(len(cursos), directory+"/"+filename, time()-t0))
+print(f'Finished.')
