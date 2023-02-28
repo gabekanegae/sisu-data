@@ -7,7 +7,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 def write_to_file(directory, filename, filecontent):
     if directory:
-        try: os.mkdir(directory)
+        try: os.makedirs(directory)
         except: pass
     else:
         directory = ''
