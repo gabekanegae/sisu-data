@@ -8,7 +8,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 # base_url = 'https://sisu-api.apps.mec.gov.br/api/v1/oferta/{}/modalidades' # 2020
 base_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/{}/modalidades'
 
-year = '2022'
+year = '2023'
 
 output_path = os.path.join('..', '..', 'data', year, 'scraping')
 try: os.makedirs(output_path)

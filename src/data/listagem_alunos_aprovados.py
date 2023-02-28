@@ -16,7 +16,7 @@ def write_to_file(directory, filename, filecontent):
         filecontent.raw.decode_content = True
         shutil.copyfileobj(filecontent.raw, f)
 
-year = '2022'
+year = '2023'
 directory = os.path.abspath(os.path.join('..', '..', 'data', year, 'listagem_alunos_aprovados_csv'))
 
 # instituicoes_url = 'https://sisu-api.apps.mec.gov.br/api/v1/oferta/instituicoes' # 2020
