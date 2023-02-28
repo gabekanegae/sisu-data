@@ -16,7 +16,6 @@ except: pass
 
 all_courses_csv = os.path.abspath(os.path.join(output_path, 'all_courses.csv'))
 output_csv = os.path.abspath(os.path.join(output_path, 'names.csv'))
-errors = []
 
 ##################################################
 
@@ -42,6 +41,9 @@ for i, oferta in enumerate(ofertas):
     while True:
         try:
             response = requests.get(base_url.format(codigo), headers=headers)
+            if response.status_code != 200:
+                print(f'   Status code: {response.status_code}')
+                raise Exception
             break
         except:
             print('[{}] An exception occured, retrying...'.format(codigo))
@@ -75,8 +77,3 @@ with open(output_csv, 'w+', encoding='UTF-8') as f:
         csv_file_writer.writerow(tuple(csv_line))
 
 print('Finished.')
-
-if errors:
-    print('Errors:')
-    for e in errors:
-        print('\t{} - Error {}'.format(e[0], e[1]))
