@@ -57,7 +57,12 @@ year = sys.argv[1]
 
 all_courses_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'all_courses.csv'))
 names_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'names.csv'))
-output_txt = os.path.abspath(os.path.join('..', '..', 'reports', year, 'names.txt'))
+
+output_path = os.path.join('..', '..', 'reports', year)
+try: os.makedirs(output_path)
+except: pass
+
+output_txt = os.path.abspath(os.path.join(output_path, 'names.txt'))
 
 ##################################################
 

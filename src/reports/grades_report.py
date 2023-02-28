@@ -56,7 +56,12 @@ if len(sys.argv) == 1:
 year = sys.argv[1]
 
 names_csv = os.path.abspath(os.path.join('..', '..', 'data', year, 'scraping', 'grades.csv'))
-output_txt = os.path.abspath(os.path.join('..', '..', 'reports', year, 'grades.txt'))
+
+output_path = os.path.join('..', '..', 'reports', year)
+try: os.makedirs(output_path)
+except: pass
+
+output_txt = os.path.abspath(os.path.join(output_path, 'grades.txt'))
 
 ##################################################
 
