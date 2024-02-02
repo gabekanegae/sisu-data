@@ -6,9 +6,10 @@ from time import sleep
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'}
 
 # base_url = 'https://sisu-api.apps.mec.gov.br/api/v1/oferta/{}/selecionados' # 2020
-base_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/{}/selecionados'
+# base_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/{}/selecionados' # 2021, 2022, 2023
+base_url = 'https://sisu-api.sisu.mec.gov.br/api/v1/oferta/{}/selecionados' # 2024
 
-year = '2023'
+year = '2024'
 
 output_path = os.path.join('..', '..', 'data', year, 'scraping')
 try: os.makedirs(output_path)

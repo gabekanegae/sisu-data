@@ -16,19 +16,21 @@ def write_to_file(directory, filename, filecontent):
         filecontent.raw.decode_content = True
         shutil.copyfileobj(filecontent.raw, f)
 
-year = '2023'
+year = '2024'
 directory = os.path.abspath(os.path.join('..', '..', 'data', year, 'listagem_alunos_aprovados_csv'))
 
 # instituicoes_url = 'https://sisu-api.apps.mec.gov.br/api/v1/oferta/instituicoes' # 2020
-instituicoes_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/instituicoes'
+# instituicoes_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/instituicoes' # 2021, 2022, 2023
+instituicoes_url = 'https://sisu-api.sisu.mec.gov.br/api/v1/oferta/instituicoes' # 2024
 
 response = requests.get(instituicoes_url, headers=headers).json()
 instituicoes = [r['co_ies'] for r in response]
 
 base_url = 'https://sisu.mec.gov.br/static/listagem-alunos-aprovados-portal/'
+
 base_filename = 'listagem-alunos-aprovados-ies-{}-{}.csv'
 for i, instituicao in enumerate(instituicoes):
-        termo_adesao_url = 'https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/instituicao/{}'.format(instituicao)
+        termo_adesao_url = instituicoes_url.replace('instituicoes', r'instituicao/{}').format(instituicao)
         response = requests.get(termo_adesao_url, headers=headers).json()
 
         termo_adesao = response['0']['co_termo_adesao']
