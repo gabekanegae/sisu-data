@@ -12612,7 +12612,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 6 | Nota de Corte: 493.28
 	EP:
 		Vagas: 2 | Nota de Corte: 483.40
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 432.70
 	PPI + EP:
 		Vagas: 6 | Nota de Corte: 431.84
@@ -12644,7 +12644,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 3 | Nota de Corte: 436.84
 	PPI + EP:
 		Vagas: 11 | Nota de Corte: 432.94
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 401.88
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
@@ -12660,7 +12660,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 INTERDISCIPLINAR EM CIÊNCIAS, Bacharelado, Vespertino
 Total de Vagas: 70
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=1.00, TOTAL=.01
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 527.18
 	AC:
 		Vagas: 12 | Nota de Corte: 472.08
@@ -12736,7 +12736,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 481.98
 	PPI + EP:
 		Vagas: 11 | Nota de Corte: 470.86
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 459.50
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 437.68
@@ -12760,7 +12760,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 1 | Nota de Corte: 482.00
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 477.18
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 441.92
 	PPI + RENDA + EP:
 		Vagas: 19 | Nota de Corte: 427.68
@@ -12995,12 +12995,12 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 INTERDISCIPLINAR EM ARTES, Bacharelado, Noturno
 Total de Vagas: 70
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=1.00, TOTAL=.01
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: .00
+	REFUGIADO:
+		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + RENDA + EP:
@@ -13027,12 +13027,12 @@ Total de Vagas: 80
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=1.00, TOTAL=.01
 	AC:
 		Vagas: 15 | Nota de Corte: 519.48
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: .00
+	REFUGIADO:
+		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + RENDA + EP:
@@ -13077,12 +13077,12 @@ Total de Vagas: 70
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=1.00, TOTAL=.01
 	AC:
 		Vagas: 12 | Nota de Corte: 443.04
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: .00
+	REFUGIADO:
+		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + RENDA + EP:
@@ -13105,12 +13105,12 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 INTERDISCIPLINAR EM CIÊNCIAS, Bacharelado, Vespertino
 Total de Vagas: 70
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=1.00, TOTAL=.01
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: .00
+	REFUGIADO:
+		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + RENDA + EP:
@@ -13177,9 +13177,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 508.92
 	EP:
 		Vagas: 5 | Nota de Corte: 484.48
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
+		Vagas: 1 | Nota de Corte: .00
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
@@ -13205,9 +13205,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 5 | Nota de Corte: 595.66
 	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 549.14
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
+		Vagas: 1 | Nota de Corte: .00
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
@@ -13404,9 +13404,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 19 | Nota de Corte: 456.70
 	PPI + RENDA + EP:
 		Vagas: 19 | Nota de Corte: 422.10
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
+		Vagas: 1 | Nota de Corte: .00
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -13424,7 +13424,7 @@ Total de Vagas: 50
 Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=1.00, TOTAL=.01
 	INDIGENA:
 		Vagas: 1 | Nota de Corte: 480.52
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 464.82
 	AC:
 		Vagas: 7 | Nota de Corte: 454.84
@@ -13494,9 +13494,9 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 19 | Nota de Corte: 505.56
 	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 490.40
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
+		Vagas: 1 | Nota de Corte: .00
+	REFUGIADO:
 		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
@@ -13522,12 +13522,12 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 7 | Nota de Corte: 536.16
 	EP:
 		Vagas: 4 | Nota de Corte: 505.42
-	em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas:
-		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	RENDA + EP:
 		Vagas: 4 | Nota de Corte: .00
+	REFUGIADO:
+		Vagas: 1 | Nota de Corte: .00
 	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + RENDA + EP:
@@ -106008,7 +106008,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 4 | Nota de Corte: 620.61
 	PPI + RENDA + EP:
 		Vagas: 41 | Nota de Corte: 609.88
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 4 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -106044,7 +106044,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: 550.75
 	PPI + PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 524.59
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 4 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -106072,7 +106072,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: 592.06
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 572.85
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -106102,7 +106102,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 6 | Nota de Corte: 598.65
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 591.27
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
@@ -106139,7 +106139,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 18 | Nota de Corte: 601.42
 	TRANS:
 		Vagas: 2 | Nota de Corte: 553.95
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -106169,7 +106169,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 18 | Nota de Corte: 623.94
 	PPI + RENDA + EP:
 		Vagas: 18 | Nota de Corte: 607.83
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
@@ -106203,7 +106203,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 14 | Nota de Corte: 633.34
 	PPI + RENDA + EP:
 		Vagas: 15 | Nota de Corte: 615.05
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -106233,7 +106233,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 14 | Nota de Corte: 642.45
 	PPI + RENDA + EP:
 		Vagas: 15 | Nota de Corte: 619.70
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: 613.85
 	TRANS:
 		Vagas: 2 | Nota de Corte: 606.19
@@ -106265,7 +106265,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: 608.87
 	PPI + EP:
 		Vagas: 2 | Nota de Corte: 605.91
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
@@ -106305,7 +106305,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: 565.98
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 545.48
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00

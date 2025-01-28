@@ -7,6 +7,7 @@ AF | Candidatos assentados pela reforma agrária
 AF | Candidatos filhos de empregados rurais ou filhos de famílias pronafianas (famílias beneficiárias do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF) ou filhos de Assentados da Reforma Agrária
 AF | Candidatos filhos de empregados rurais ou filhos de famílias pronafianas (famílias beneficiárias do Programa Nacional de Fortalecimento da Agricultura Familiar ¿ PRONAF) ou filhos de assentados da Reforma Agrária.
 AF | Filhos de empregados rurais ou filhos de famílias pronafianas (famílias beneficiárias do Programa Nacional de Fortalecimento da Agricultura Familiar ¿ PRONAF) ou filhos de assentados da Reforma Agrária.
+AF | pr - produtores rurais
 AF | que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária (PRONAF)
 AF | que comprovem serem empregados rurais ou filhos de empregados rurais ou filhos/membros de famílias pronafianas ou filhos/membros de assentados da reforma agrária.
 AF | Reserva de vagas para candidatos de Agricultura Familiar (AF)
@@ -20,9 +21,6 @@ CIGANO | Candidatos membros de Comunidade Cigana
 CIGANO | ciganos e que não tenham concluído curso de graduação.
 CIGANO | de origem cigana
 CIGANO | membros de comunidade cigana
-EP + PPI + RENDA | que tenham cursado integralmente o ensino médio em escolas públicas, autodeclarados pretos, pardos ou indígenas, nos termos da legislação, que comprovem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
-EP + PPI | EGRESSOS DE ESCOLAS PÚBLICAS QUE SE AUTODECLARAM PRETOS, PARDOS E ÍNDIOS (EP PPI) - ENSINO FUNDAMENTAL E MÉDIO
-EP + PPI | que tenham cursado integralmente o ensino médio em escolas públicas, autodeclarados pretos, pardos ou indígenas, nos termos da legislação, que não declarem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
 EP + REGIONAL | A11 - Candidatos  que tenham cursado integralmente o  ensino  médio  em  escolas  localizadas  na  região de   abrangência   do   IFPA   campus   Castanhal,   conforme   Resolução   n°   111,   de   19/08/2015 CONSUP,  nos  municípios  de:  Aurora  do  Pará,  Bujaru, Castanhal,  Concórdia  do  Pará,  Curuçá, Igarapé-Açu, Inhangapi, Ipixina do Pará, Irituia, Magalhães Barata, Mãe do Rio, Marapanim, Santa Isabel do Pará, Santa Maria do Pará, São Domingos do Capim, São Francisco do Pará, São João da Ponta, São Miguel do Guamá, Terra Alta e Tomé-Açu.
 EP + REGIONAL | A3 - Candidatos que tenham cursado integralmente o Ensino Médio em escolas localizadas na Região do Baixo Tocantins, Estado do Pará, nos municípios de Abaetetuba, Baião, Barcarena, Cametá, Moju, Igarapé-miri, Mocajuba, Oeiras do Pará e Limoeiro do Ajuru.
 EP + REGIONAL | A5 - Candidatos que tenham cursado integralmente o Ensino Médio em escola pública localizadas na Região do Lago da Usina Hidrelétrica de Tucuruí, Estado do Pará, nos municípios de Baião, Breu Branco, Goianésia do Pará, Jacundá, Mocajuba, Nova Ipixuna, Novo Repartimento e Tucuruí.
@@ -32,6 +30,8 @@ EP + REGIONAL | Candidatos A5 - Candidatos que tenham cursado integralmente o En
 EP + REGIONAL | Candidatos que comprovarem ter cursado integralmente os ensinos fundamental e médio em escolas públicas do Distrito Federal.
 EP | (as) que independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas brasileiras. (L3)
 EP | A3 -  o candidato tenha cursado integralmente todas as séries do 2º ciclo do Ensino Fundamental, ou seja, do 6º ao 9º ano, e todas as séries, do Ensino Médio em escolas públicas de todo o território nacional.
+EP | a3 - que tenham cursado integralmente o ensino médio em escolas públicas, que não tenham se declarado pretos, pardos ou indígenas, nos termos da legislação, e que comprovem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
+EP | a4  - que tenham cursado integralmente o ensino médio em escolas públicas, que não tenham se declarado pretos, pardos ou indígenas, nos termos da legislação, que não declarem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
 EP | Candidato (s) com procedência de no mínimo sete anos de estudos regulares ou que tenham realizado curso supletivo ou outra modalidade de ensino equivalente, em estabelecimento da Rede Pública de Ensino do Brasil, compreendendo parte do ensino fundamental (6º ao 9º ano) e Ensino Médio  completo (incluindo os cursos técnicos com duração de 4 anos) ou ter realizado curso supletivo ou outra modalidade de ensino equivalente.
 EP | Candidato (s) Oriundos da rede pública de ensino.
 EP | Candidato (s) Oriundos da rede pública de ensino..
@@ -41,10 +41,13 @@ EP | Candidato (s) que tenham cursado integral, exclusiva e regularmente os anos
 EP | Candidato (s) que tenham cursado integralmente o Ensino Médio em instituições públicas de ensino
 EP | Candidato (s) que tenham cursado integralmente o Ensino Médio em instituições públicas e gratuitas de ensino
 EP | Candidato (s) que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública  e que não se autodeclararam negros.
+EP | candidatos candidato (s) que tenham cursado integralmente o ensino médio em instituições públicas de ensino
 EP | Candidatos Cota Social - Candidatos que frequentaram integralmente todas as séries do Ensino Médio ou equivalente em instituições públicas brasileiras de ensino.
 EP | Candidatos EGRESSOS DE ESCOLAS PÚBLICAS (EP) - ENSINO FUNDAMENTAL E MÉDIO
+EP | candidatos egressos de escolas públicas da rede federal, estadual ou municipal, que cursaram os anos finais do ensino fundamental (6º ao 9º anos) e todo o ensino médio (1º ao 3º anos), com qualquer renda renda per capita bruta (corresponde ao estrato a2 e a 10% das vagas), devendo essa condição ser comprovada no ato da matrícula.
 EP | Candidatos egressos de escolas públicas da rede federal, estadual ou municipal, que cursaram os anos finais do Ensino Fundamental (6º ao 9º anos) e todo o Ensino Médio (1º ao 3º anos), com qualquer renda renda per capita bruta, devendo essa condição ser comprovada no ato da matrícula.
 EP | Candidatos estudantes oriundos de Escolas Públicas integrantes da estrutura da Secretaria de Estado de Educação, unidade integrante do Governo do Estado ou Municípios, vinculadas pedagógica e administrativamente às respectivas Diretorias Regionais de Ensino
+EP | candidatos estudantes oriundos de escolas públicas integrantes da estrutura da secretaria de estado de educação, unidade integrante do governo do estado ou municípios, vinculadas pedagógica e administrativamente às respectivas diretorias regionais de ensino autodeclarados pretos ou pardos
 EP | Candidatos que tenham cursado integral e exclusivamente os ensinos fundamental e médio em estabelecimentos da rede pública de ensino.
 EP | Candidatos que tenham cursado integralmente o ensino médio em escolas públicas ou cursado integralmente o ensino médio em escolas privadas com bolsa de estudo integral, e que não tenham concluído curso de graduação.
 EP | Candidatos que tenham cursado integralmente o Ensino Médio em escolas públicas;
@@ -53,8 +56,10 @@ EP | Candidatos que tenham cursado todo o Ensino Médio e os últimos quatro ano
 EP | CANDIDATOS QUE TENHAM CURSADO, NA REDE PÚBLICA, OS ÚLTIMOS QUATRO ANOS DO ENSINO FUNDAMENTAL E TODO O ENSINO MÉDIO
 EP | Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 EP | Candidatos que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+EP | Candidatos que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (Lei nº 12.711/2012).
 EP | com procedência de no mínimo sete anos de estudos regulares ou que tenham realizado curso supletivo ou outra modalidade de ensino equivalente, em estabelecimento da Rede Pública de Ensino do Brasil, compreendendo parte do ensino fundamental (6º ao 9º ano) e Ensino Médio  completo (incluindo os cursos técnicos com duração de 4 anos) ou ter realizado curso supletivo ou outra modalidade de ensino equivalente.
 EP | Cota Social - Candidatos que frequentaram integralmente todas as séries do Ensino Médio ou equivalente em instituições públicas brasileiras de ensino.
+EP | cota social - egresso de escola pública (eep)
 EP | Cota Social - Egressos Escola Pública
 EP | COTAS - Escolas Públicas -  Lei Estadual no 6.542, de 7 de dezembro de 2004
 EP | demais de escola pública
@@ -62,8 +67,10 @@ EP | Demais Estudantes de Escola Pública
 EP | EEP - Cota Social - Egressos Escola Pública
 EP | EGRESSOS DE ESCOLAS PÚBLICAS (EP) - ENSINO FUNDAMENTAL E MÉDIO
 EP | egressos de escolas públicas da rede federal, estadual ou municipal, que cursaram os anos finais do Ensino Fundamental (6º ao 9º anos) e todo o Ensino Médio (1º ao 3º anos), com qualquer renda renda per capita bruta, devendo essa condição ser comprovada no ato da matrícula.
+EP | escola pública
 EP | estudantes oriundos de Escolas Públicas integrantes da estrutura da Secretaria de Estado de Educação, unidade integrante do Governo do Estado ou Municípios, vinculadas pedagógica e administrativamente às respectivas Diretorias Regionais de Ensino
 EP | L5 - Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+EP | lei nº 6.542, de 7 de dezembro de 2004. estabelece reserva de vagas nas universidades públicas do estado para alunos egressos da rede pública de ensino.
 EP | que cursaram integralmente o Ensino Médio em Escola Pública/DEMAIS ESTUDANTES DE ESCOLA PÚBLICA
 EP | que cursaram o Ensino Médio, integral e exclusivamente, em escola pública do Brasil, e que não tenham concluído curso de graduação
 EP | que cursaram o Ensino Médio, integral e exclusivamente, em escola pública do Brasil, e que não tenham concluído curso de graduação (Vaga EP)
@@ -84,6 +91,7 @@ EP | que tenham cursado integralmente os ensinos fundamental e médio em escolas
 EP | que tenham cursado o ensino fundamental e médio integralmente em escola pública
 EP | que tenham cursado parcialmente o ensino médio em escola pública (pelo menos um ano com aprovação) ou em escolas de direito privado sem fins lucrativos, cujo orçamento da instituição seja proveniente do poder público, em pelo menos 50%.
 EP | que tenham cursado parcialmente o ensino médio em escola pública (pelo menos um ano com aprovação) ou em escolas de direito privado sem fins lucrativos, cujo orçamento da instituição seja proveniente do poder público, em pelo menos 50%. (A1)
+EP | que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública e que não se autodeclararam negros.
 EP | que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública
 EP | que tenham cursado todo o ensino médio e pelo menos quatro anos do Ensino Fundamental em escola pública
 EP | que tenham cursado todo o ensino médio e pelo menos quatro anos do Ensino Fundamental II em escola pública
@@ -94,6 +102,7 @@ INDIGENA + EP | INDÍGENAS que cursaram integralmente o Ensino Médio em escolas
 INDIGENA + EP | pertencentes a povos indígenas aldeados, que tenham cursado integralmente o ensino médio em escolas públicas.
 INDIGENA + EP | que cursaram integralmente o Ensino Médio em escola Pública/ESTUDANTES INDÍGENAS
 INDIGENA + RENDA + EP | Candidatos autodeclarados indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+INDIGENA + RENDA + EP | candidatos autodeclarados indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (lei nº 12.711/2012).
 INDIGENA + RENDA + EP | Candidatos autodeclarados indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e  que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 INDIGENA + RENDA + EP | Candidatos IEEP - Indígena, de baixa renda, egresso de escola pública:
 INDIGENA + RENDA + EP | Candidatos Indígenas que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
@@ -106,6 +115,7 @@ INDIGENA + RENDA + EP | indígenas que tenham cursado todo o 2º ciclo do ensino
 INDIGENA + RENDA | Candidato (s) economicamente hipossuficientes indígenas
 INDIGENA | Candidato (s) indígena
 INDIGENA | Candidato (s) Indígenas
+INDIGENA | candidatos autodeclarados indígenas, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (lei nº 12.711/2012).
 INDIGENA | Candidatos indígenas
 INDIGENA | Candidatos indígenas e que não tenham concluído curso de graduação.
 INDIGENA | Estudantes Indígenas
@@ -117,14 +127,19 @@ INDIGENA | indígenas, condição que deve ser comprovada mediante apresentaçã
 INDIGENA | membros de grupos indígenas
 INDIGENA/QUILOMBOLA + EP | Candidato (s) que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública e que sejam índios reconhecidos pela FUNAI ou moradores de comunidades remanescentes de quilombos registrados na Fundação Cultural Palmares.
 INDIGENA/QUILOMBOLA + EP | Candidatos que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública e que sejam índios reconhecidos pela FUNAI ou moradores de comunidades remanescentes de quilombos registrados na Fundação Cultural Palmares.
+INDIGENA/QUILOMBOLA + EP | que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública e que sejam índios reconhecidos pela FUNAI ou moradores de comunidades remanescentes de quilombos registrados na Fundação Cultural Palmares.
 PCD + EP | Candidatos com deficiência independentemente da condição acadêmica prévia declarada (pública ou privada)
 PCD + EP | Candidatos com deficiência que cursaram todo o ensino médio em escola pública.
 PCD + EP | Candidatos com deficiência que cursaram todo o ensino médio em escolas públicas.
 PCD + EP | Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PCD + EP | Candidatos com deficiência, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+PCD + EP | Candidatos com deficiência, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (Lei nº 12.711/2012).
 PCD + EP | com deficiência oriundos da rede de ensino privada ou pública. Os candidatos oriundos da rede pública devem optar por concorrer à vaga desta ação afirmativa ou às  vagas reservadas para os grupos de cotas estabelecidos na Lei nº 12.711/2012, não sendo permitida aplicação cumulativa.
 PCD + EP | com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+PCD + EP | com deficiência, autista, altas habilidades e superdotação que tenham cursado todo o 2º ciclo do ensino fundamental e o ensino médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
+PCD + EP | l13 - candidatos com deficiência que, independentemente da renda (art. 14, ii, portaria normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (lei nº 12.711/2012).
 PCD + EP | que cursaram integralmente o Ensino Médio em Escola Pública/ESTUDANTES COM DEFICIÊNCIA
+PCD + EP | que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública e que sejam Pessoa com Deficiência (PcD).
 PCD + EP | V3985: Candidatos com deficiência que, independentemente da renda, tenham cursado integralmente o Ensino Fundamental ou Ensino Médio, conforme o caso, em Escolas Públicas
 PCD + EP | V3985: Candidatos com deficiência que, independentemente da renda, tenham cursado integralmente o Ensino médio em Escolas Públicas, no caso dos Cursos de Graduação.
 PCD + EP | Vagas reservadas V3985: Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o Ensino Fundamental ou Médio, conforme o caso, em escolas públicas. (Lei nº 12.711/2012).
@@ -137,18 +152,23 @@ PCD + RENDA + EP | Ação Afirmativa 2: Para pessoas com deficiências que tenha
 PCD + RENDA + EP | Candidatos com Deficiência que tenham cursado todo o ensino médio e pelo menos quatro anos letivos do Ensino Fundamental em escola pública  (renda familiar de 1,5 salários mínimos per capita)
 PCD + RENDA + EP | Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PCD + RENDA + EP | Candidatos com deficiência, que tenham renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
+PCD + RENDA + EP | Candidatos com deficiência, que tenham renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (Lei nº 12.711/2012)
 PCD + RENDA + EP | Candidatos com deficiência, transtorno do espectro autista e altas habilidades que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
 PCD + RENDA + EP | com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PCD + RENDA + EP | com deficiência, transtorno do espectro autista e altas habilidades que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
+PCD + RENDA + EP | l9 - candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (lei nº 12.711/2012).
 PCD + RENDA | (s)  A1 - Carente Socioeconômico e Pessoa com Deficiência - PcD ou Pessoas Carentes Socioeconômicos e filhos de Policiais Civis, Militares, Bombeiros Militares e de Inspetores de Segurança e Administração Penitenciária, Mortos ou Incapacitados em Razão do Serviço
 PCD + RENDA | - Candidato (s) com deficiência, ou filhos de policiais civis, militares, bombeiros militares e inspetores de segurança e administração penitenciária, mortos ou incapacitados em razão do serviço, com comprovação de carência socioeconômica
 PCD + RENDA | A1 - Carente Socioeconômico e Pessoa com Deficiência - PcD ou Carente Socioeconômico e filho (a) de Policiais Civis, Militares, Bombeiros Militares e de Inspetores de Segurança e Administração Penitenciária, Mortos ou Incapacitados em Razão do Serviço
 PCD + RENDA | A1 - Carente Socioeconômico e Pessoa com Deficiência - PcD ou Carente Socioeconômico e filho(a) de Policiais Civis, Militares, Bombeiros Militares e de Inspetores de Segurança e Administração Penitenciária, Mortos ou Incapacitados em Razão do Serviço
 PCD + RENDA | A1 - Carente Socioeconômico e Pessoa com Deficiência - PcD ou Pessoas Carentes Socioeconômicos e filhos de Policiais Civis, Militares, Bombeiros Militares e de Inspetores de Segurança e Administração Penitenciária, Mortos ou Incapacitados em Razão do Serviço
+PCD + RENDA | a1 - carente socioeconômico e pessoa com deficiência - pcd ou pessoas carentes socioeconômicos e filhos de policiais civis, militares, bombeiros militares e de inspetores de segurança e administração penitenciária, mortos ou incapacitados em razão do serviço.
 PCD + RENDA | Candidatos A1 - Carente Socioeconômico e Pessoa com Deficiência - PcD ou Carente Socioeconômico e filho (a) de Policiais Civis, Militares, Bombeiros Militares e de Inspetores de Segurança e Administração Penitenciária, Mortos ou Incapacitados em Razão do Serviço
 PCD + RENDA | Candidatos A1 - Carente Socioeconômico e Pessoa com Deficiência - PcD ou Pessoas Carentes Socioeconômicos e filhos de Policiais Civis, Militares, Bombeiros Militares e de Inspetores de Segurança e Administração Penitenciária, Mortos ou Incapacitados em Razão do Serviço
 PCD + RENDA | com deficiência ou filhos de policiais militares, bombeiros militares, inspetores de segurança e administração penitenciária, mortos ou incapacitados em razão do serviço, com comprovação de carência socioeconômica
+PCD + RENDA | com deficiência, ou filhos de policiais civis, militares, bombeiros militares e inspetores de segurança e administração penitenciária, mortos ou incapacitados em razão do serviço, com comprovação de carência socioeconômica
 PCD | - 5% das vagas destinadas a candidatos com deficiência com execeção das vagas do SISU.
+PCD | ac_pcd - candidatos com deficiência (ampla concorrência - resolução nº 05/2017-consup/ifrn)
 PCD | autodeclarados Pessoa com Deficiência, cuja deficiência enquadre-se no prescrito pela Resolução nº 044/2021, observada a Lei Estadual nº 20.443/2020 (o candidato que se autodeclarar com deficiência não poderá ter curso superior concluído).
 PCD | Candidato (s) com deficiência
 PCD | Candidato (s) com deficiência.
@@ -171,6 +191,7 @@ PCD | Candidatos que comprovem serem pessoas com deficiência
 PCD | Categoria VI - Pessoas com deficiência
 PCD | com deficiência
 PCD | com deficiência (Denominada A1)
+PCD | com deficiência (resolução conac/ufrb 117/2024)
 PCD | com deficiência - PROAAF
 PCD | com deficiência e que não tenham concluído curso de graduação.
 PCD | com deficiência oriundos da rede de ensino privada ou pública. Os candidatos oriundos da rede pública devem optar por concorrer à vaga desta ação afirmativa ou às vagas reservadas para os grupos de cotas estabelecidos na Lei nº 12.711/2012, não sendo permitida aplicação cumulativa.
@@ -185,6 +206,7 @@ PCD | com Deficiência, Transtorno do Espectro Autista, Altas Habilidades/Superd
 PCD | com deficiência: será reservada uma vaga, por curso e turno, qualquer que seja a sua procedência escolar.
 PCD | com deficiências (Denominada A1).
 PCD | Cota para candidatos com deficiência
+PCD | cotas pcd
 PCD | Estudantes com Deficiência
 PCD | L15 - Candidatos com deficiência (ampla concorrência - Resolução nº 05/2017-CONSUP/IFRN
 PCD | L15 - Candidatos Pessoa com Deficiência independentemente da sua condição acadêmica prévia declarada (pública ou privada)
@@ -193,11 +215,15 @@ PCD | PCD - Vagas para Portadores de Deficiência.
 PCD | PD - Pessoa com deficiência
 PCD | PD - Pessoa com deficiência:
 PCD | Pessoa com Deficiência
+PCD | pessoa com deficiência (pcd)
 PCD | Pessoa com Deficiência.
 PCD | Pessoas com Deficiência
 PCD | Pessoas com deficiência e transtornos globais do desenvolvimento (PCD)
+PCD | pessoas com deficiência, em conformidade com a lei estadual nº 20.443, de 17 de dezembro de 2020, que dispõe sobre o ingresso de pessoas com deficiência nas instituições estaduais de educação superior, e não estejam matriculados ou tenham concluído curso superior.  as deficiências para o direito às vagas, segundo decreto nº 5.296/2004, lei federal nº 12.764/2012 e lei federal nº 14.126/2021, estão dispostas no endereço https://www3.unicentro.br/vestibular/sisu/cotas-pcd/
 PCD | Pessoas com deficiência, em conformidade com a Lei Estadual nº 20.443, de 17 de dezembro de 2020, que dispõe sobre o ingresso de pessoas com deficiência nas instituições estaduais de educação superior, e não tenham concluído curso superior.
 PCD | Pessoas com deficiência, em conformidade com a Lei Estadual nº 20.443, de 17 de dezembro de 2020, que dispõe sobre o ingresso de pessoas portadoras de deficiência nas instituições estaduais de educação superior, e não tenham concluído curso superior.
+PCD | pessoas com deficiência, oriundos de qualquer percurso escolar
+PCD | portadores de deficiência
 PCD | que comprovem serem pessoas com deficiência
 PCD | que comprovem serem pessoas com deficiência (PCD)
 PCD | Reserva de vagas para candidatos com deficiência (PCD)
@@ -212,37 +238,50 @@ PCD/SOLDADO + RENDA | Candidatos com deficiência ou filhos de policiais militar
 PCD/SOLDADO + RENDA | Candidatos com deficiência, ou filhos de policiais civis, militares, bombeiros militares e inspetores de segurança e administraçã o penitenciária, mortos ou incapacitados em razão do serviço, com comprovação de vulnerabilidade econômica
 PCD/SOLDADO | ¿   CANDIDATOS COM DEFICIÊNCIA, OU FILHOS DE POLICIAIS CIVIS, MILITARES, BOMBEIROS MILITARES, INSPETORES DE SEGURANÇA E ADMINISTRAÇÃO PENITENCIÁRIA, MORTOS OU INCAPACITADOS EM RAZÃO DO SERVIÇO
 PPI + EP | (as) autodeclarados pretos, pardos ou indígenas que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas brasileiras. (L4)
+PPI + EP | a2 - que tenham cursado integralmente o ensino médio em escolas públicas, autodeclarados pretos, pardos ou indígenas, nos termos da legislação, que não declarem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
 PPI + EP | autodeclarados pretos, pardos ou indígenas que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas. (L4)
 PPI + EP | Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PPI + EP | Candidatos autodeclarados pretos, pardos ou indígenas, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+PPI + EP | Candidatos autodeclarados pretos, pardos ou indígenas, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (Lei nº 12.711/2012).
 PPI + EP | Candidatos que tenha cursado integral e exclusivamente os ensinos fundamental e médio em estabelecimentos da rede pública de ensino e que se autodeclarem negros.
+PPI + EP | EGRESSOS DE ESCOLAS PÚBLICAS QUE SE AUTODECLARAM PRETOS, PARDOS E ÍNDIOS (EP PPI) - ENSINO FUNDAMENTAL E MÉDIO
 PPI + EP | L6 - Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PPI + EP | NEGROS (pretos e pardos) que cursaram integralmente o Ensino Médio em escolas públicas (Banca avaliadora obrigatória)
+PPI + EP | que tenham cursado integralmente o ensino médio em escolas públicas, autodeclarados pretos, pardos ou indígenas, nos termos da legislação, que não declarem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
 PPI + PCD + EP | Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PPI + PCD + RENDA + EP | Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)
 PPI + RENDA + EP | (as) autodeclarados pretos, pardos ou indígenas com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o ensino médio em escolas públicas brasileiras. (L2)
+PPI + RENDA + EP | a1 - que tenham cursado integralmente o ensino médio em escolas públicas, autodeclarados pretos, pardos ou indígenas, nos termos da legislação, que comprovem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
 PPI + RENDA + EP | autodeclarados pretos, pardos ou indígenas com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o ensino médio em escolas públicas. (L2)
+PPI + RENDA + EP | autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (lei nº 12.711/2012). proposta reparatória para ocupação irregular de vagas ocorrida entre 2013 e 2017.
 PPI + RENDA + EP | Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+PPI + RENDA + EP | Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (Lei nº 12.711/2012).
 PPI + RENDA + EP | Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PPI + RENDA + EP | L2 - Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+PPI + RENDA + EP | que tenham cursado integralmente o ensino médio em escolas públicas, autodeclarados pretos, pardos ou indígenas, nos termos da legislação, que comprovem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
 PPI + RENDA | A2 - Candidatos negros ou indígenas com comprovação de carência socioeconômica
 PPI + RENDA | Candidato (s) negros ou indígenas com comprovação de carência socioeconômica
 PPI + RENDA | Candidatos Negros ou Indígenas com comprovação de carência socioeconômica
 PPI + RENDA | Candidatos negros ou indígenas com comprovação de carência socioeconômica.
 PPI | autodeclarados Pretos, Pardos e Indígenas
+PPI | cota social - pretos, pardos e indígenas (ppi)
 PPI | Cota Social - Pretos, Pardos ou Indígenas
 PPI | PPI - Cota Social - Pretos, Pardos ou Indígenas
 PPI/QUILOMBOLA + RENDA + EP | AF1: Pessoas negras, quilombolas e indígenas que tenham cursado integralmente o Ensino Médio em escolas da rede pública de ensino, com renda per capita (mensal) de até um salário-mínimo e meio (1,5);
 PPI/QUILOMBOLA + RENDA + EP | Ação Afirmativa 1: 45% (quarenta e cinco por cento) para pessoas negras, quilombolas e indígenas que tenham cursado integralmente o Ensino Médio em escolas da rede pública de ensino, com renda per capita de até um salário mínimo e meio (1,5).
 PPI/QUILOMBOLA + RENDA + EP | Ação Afirmativa 1: Pessoas negras, quilombolas e indígenas que tenham cursado integralmente o Ensino Médio em escolas da rede pública de ensino, com renda per capita mensal de até um salário mínimo e meio (1,5).
+PPI/QUILOMBOLA + RENDA + EP | candidatos candidatos egressos de escolas públicas da rede federal, estadual ou municipal, que cursaram os anos finais do ensino fundamental (6º ao 9º anos) e todo o ensino médio (1º ao 3º anos), com qualquer renda familiar bruta per capita, para estudantes autodeclarados (as) pretos(as), pardos(as), quilombolas ou indígenas (corresponde ao estrato a4 e a 10% das vagas), devendo essa condição ser analisada e aprovada por comissão de heteroidentificação, bem como comprovada no ato da matrícula.
+PPI/QUILOMBOLA + RENDA + EP | candidatos candidatos egressos de escolas públicas da rede federal, estadual ou municipal, que cursaram os anos finais do ensino fundamental (6º ao 9º anos) e todo o ensino médio (1º ao 3º anos), com renda familiar bruta per capita igual ou inferior a 1 salário mínimo, para estudantes autodeclarados (as) pretos(as), pardos(as), quilombolas ou indígenas (corresponde ao estrato a3 e a 10% das vagas), devendo essa condição ser analisada e aprovada por comissão de heteroidentificação, bem como comprovada no ato da matrícula.
 PPI/QUILOMBOLA + RENDA | (s) A2 - Carente Socioeconômico e Negros/Indígenas ou alunos oriundos de Comunidades Quilombolas
 PPI/QUILOMBOLA + RENDA | A2 - Candidatos negros, indígenas e quilombolas com comprovação de carência socioeconômica
 PPI/QUILOMBOLA + RENDA | A2 - Carente Socioeconômico e Negros/Indígenas ou alunos oriundos de  Comunidades Quilombolas
+PPI/QUILOMBOLA + RENDA | a2 - carente socioeconômico e negros/indígenas ou alunos oriundos de comunidades quilombolas.
 PPI/QUILOMBOLA + RENDA | Ação Afirmativa 1 - Pessoas negras, quilombolas e indígenas que tenham cursado integralmente o Ensino Médio em escolas da rede pública de ensino, com renda per capita (mensal) de até um salário-mínimo e meio (1,5).
 PPI/QUILOMBOLA + RENDA | Candidato (s) NEGROS, INDÍGENAS OU QUILOMBOLAS COM COMPROVAÇÃO DE CARÊNCIA SOCIOECONÔMICA
 PPI/QUILOMBOLA + RENDA | Candidatos A2 - Carente Socioeconômico e Negros/Indígenas ou alunos oriundos de Comunidades Quilombolas
 PPI/QUILOMBOLA + RENDA | Candidatos Negros ou Indígenas ou Quilombolas com comprovação de carência socioeconômica
 PPI/QUILOMBOLA + RENDA | Candidatos negros, indígenas ou oriundos de comunidades quilombolas com comprovação de carência socioeconômica.
+PPI/QUILOMBOLA + RENDA | negros, indígenas ou quilombolas com comprovação de carência socioeconômica
 PPI/QUILOMBOLA + RENDA | Negros/Indígenas ou alunos oriundos de Comunidades Quilombolas com comprovação de carência socioeconômica
 PPI/QUILOMBOLA | A2 - Carente Socioeconômico e Negros/Indígenas ou alunos oriundos de Comunidades Quilombolas
 PRETO/PARDO + EP | autodeclarados negros (somatório das categorias pretos e pardos, segundo classificação étnico-racial adotada pelo IBGE) que tenham cursado o ensino fundamental 2 (do 6º ao 9º ano) e ensino medio completo ( incluindo os cursos técnicos com duração de 4 anos) ou ter realizado curso supletivo ou outra modalidade de ensino equivalente, em estabelecimento da Rede Pública de Ensino do Brasil. Vedado aos portadores de diploma de nível superior
@@ -253,6 +292,7 @@ PRETO/PARDO + EP | Candidato (s) Negros ou pardos que cursaram integralmente o E
 PRETO/PARDO + EP | Candidato (s) que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública e que se autodeclararam negros.
 PRETO/PARDO + EP | Candidatos autodeclarados pretos ou pardos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PRETO/PARDO + EP | Candidatos autodeclarados pretos ou pardos, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+PRETO/PARDO + EP | candidatos autodeclarados pretos ou pardos, independentemente da renda, que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (lei nº 12.711/2012).
 PRETO/PARDO + EP | Candidatos Cota Sociorracial: candidatos(as) autodeclarados(as) negros(as) e que tenham frequentado integralmente todas as séries do Ensino Médio ou equivalente em instituições públicas brasileiras de ensino.
 PRETO/PARDO + EP | Candidatos pretos e pardos, que tenham cursado integralmente o Ensino Médio em escolas públicas;
 PRETO/PARDO + EP | Cota Sociorracial: candidatos(as) autodeclarados(as) negros(as) e que tenham frequentado integralmente todas as séries do Ensino Médio ou equivalente em instituições públicas brasileiras de ensino.
@@ -266,10 +306,12 @@ PRETO/PARDO + EP | que se autodeclararem Pretos ou Partos e que cursaram o Ensin
 PRETO/PARDO + EP | que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação
 PRETO/PARDO + EP | que se declararem negros que tenham cursado todo o ensino médio e pelo menos quatro anos do Ensino Fundamental em escola pública
 PRETO/PARDO + EP | que se declararem negros que tenham cursado todo o ensino médio e pelo menos quatro anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação
+PRETO/PARDO + EP | que tenham cursado todo o Ensino Médio e os últimos quatro anos do Ensino Fundamental em Escola Pública e que se autodeclararam negros.
 PRETO/PARDO + QUILOMBOLA | Candidatos afrodescendentes residentes em quilombos
 PRETO/PARDO + RENDA + EP | autodeclarados negros que tenham cursado todo o 2º ciclo do ensino fundamental (5ª a 8ª séries) e todo o ensino médio, única e exclusivamente, em escola pública e que tenham renda bruta familiar mensal igual ou inferior a 04 salários mínimos.
 PRETO/PARDO + RENDA + EP | autodeclarados pretos ou pardos, com renda familiar bruta per capita igual ou inferior a 1,5 salários mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Resolução CONSEPE nº 5.668/2023)
 PRETO/PARDO + RENDA + EP | Candidatos autodeclarados pretos ou pardos, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+PRETO/PARDO + RENDA + EP | candidatos autodeclarados pretos ou pardos, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (lei nº 12.711/2012).
 PRETO/PARDO + RENDA + EP | Candidatos autodeclarados pretos ou pardos, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 PRETO/PARDO + RENDA + EP | Candidatos Negros que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
 PRETO/PARDO + RENDA + EP | Candidatos Negros, de baixa renda que sejam egresso de escola pública:
@@ -277,6 +319,7 @@ PRETO/PARDO + RENDA + EP | Candidatos que se declararem negros (pretos e pardos)
 PRETO/PARDO + RENDA + EP | Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública
 PRETO/PARDO + RENDA + EP | que se declararem negros que tenham cursado todo o ensino médio e pelo menos quatro anos do Ensino Fundamental em escola pública seguindo a ordem de classificação
 PRETO/PARDO + RENDA | Candidato (s) economicamente hipossuficientes negros e pardos
+PRETO/PARDO + RENDA | cotas sociais para negros
 PRETO/PARDO | autodeclarados Negros (Denominada A2)
 PRETO/PARDO | autodeclarados Negros (Pretos e Pardos) (Denominada A2)
 PRETO/PARDO | autodeclarados negros de forma irrestrita, independente do percurso de formação.
@@ -284,18 +327,24 @@ PRETO/PARDO | autodeclarados negros e que não tenham concluído curso de gradua
 PRETO/PARDO | Candidato (s) negros, entendidos como candidatos que possuem fenótipo que os caracterizem, na sociedade, como pertencentes ao grupo racial negro
 PRETO/PARDO | Candidatos autodeclarados negros de forma irrestrita, independente do percurso de formação.
 PRETO/PARDO | Candidatos autodeclarados negros e que não tenham concluído curso de graduação.
+PRETO/PARDO | cotas negros
 PRETO/PARDO | Estudantes Negros
 PRETO/PARDO | Negros
 PRETO/PARDO | Negros (pretos ou pardos) (Denominada A2)
 PRETO/PARDO | negros, entendidos como candidatos que possuem fenótipo que os caracterizem, na sociedade, como pertencentes ao grupo racial negro
+PRETO/PARDO | pardos e pretos
+PRETO/PARDO | que se autodeclaram negros (pretos e pardos), oriundos de qualquer percurso de formação, que não possuam curso superior concluído ou não estejam matriculados em curso superior.
 PROFESSOR | Candidato (s) Docentes de Escola Pública - Candidatos que comprovarem atuação como docente, em algum momento (passado ou presente), na Rede Pública de Ensino.
 PROFESSOR | Candidatos (as) Docentes de Escola Pública - Candidatos(as) que comprovarem atuação como docente, em algum momento (passado ou presente), na Rede Pública de Ensino.
 PROFESSOR | Candidatos professores em exercício do magistério da Pré-Escola, do Ensino Fundamental e Médio da rede pública se ensino.
 PROFESSOR | Candidatos professores em exercício do magistério do ensino fundamental e médio da rede pública de ensino.
+PROFESSOR | professores em exercício do magistério da pré-escola, do ensino fundamental e médio da rede pública de ensino
 PROFESSOR | professores em exercício do magistério da Pré-Escola, do Ensino Fundamental e Médio da rede pública de ensino.
 QUILOMBOLA + EP | Candidatos autodeclarados quilombolas, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+QUILOMBOLA + EP | candidatos autodeclarados quilombolas, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (lei nº 12.711/2012).
 QUILOMBOLA + EP | pertencentes a povos de comunidades remanescentes de quilombos ou comunidades identitárias tradicionais, que tenham cursado integralmente o ensino médio em escolas públicas.
 QUILOMBOLA + RENDA + EP | Candidatos autodeclarados quilombolas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+QUILOMBOLA + RENDA + EP | Candidatos autodeclarados quilombolas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (Lei nº 12.711/2012).
 QUILOMBOLA + RENDA + EP | Candidatos membros de comunidade quilombola e que tenham cursado todo o ensino médio e pelo menos quatro anos letivos do Ensino Fundamental em escola pública  (renda familiar de 1,5 salários mínimos per capita)
 QUILOMBOLA + RENDA + EP | Candidatos Quilombolas que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
 QUILOMBOLA + RENDA + EP | Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública
@@ -307,10 +356,13 @@ QUILOMBOLA | Candidatos Quilombolas-Resolução n° 76/2022 CONSUP/IFBA
 QUILOMBOLA | de comunidades remanescentes de quilombos ou comunidades identitárias tradicionais
 QUILOMBOLA | membros de comunidade quilombola
 QUILOMBOLA | Quilombola
+QUILOMBOLA | quilombolas
 QUILOMBOLA | quilombolas e que não tenham concluído curso de graduação.
+REFUGIADO + EP | em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas, que tenham cursado integralmente o ensino médio em escolas públicas.
 REFUGIADO + RENDA | Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica
 REFUGIADO | 01 vaga adicional em cada curso para pessoas em situação de refúgio, asilo político, apátrida, acolhida humanitária ou sob outras políticas humanitárias no Brasil.
 REFUGIADO | em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas
+REFUGIADO | refugiados
 REFUGIADO | Refugiados e Solicitantes de Refúgio, independentemente de renda familiar
 REGIONAL | 4% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 -  Acréscimo de até 4% (quatro por cento) na nota final para alunos que estudaram os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas.
 REGIONAL | 5% - Bonificação Regional - Base: RESOLUÇÃO CONSU No. 26/2017, DE 8 DE SETEMBRO DE 2017 - Acréscimo de 5% (cinco por cento) na nota final para alunos que estudaram os últimos quatro anos do ensino fundamental (do 6o ao 9o ano) e os três anos do ensino médio (do 1o ao 3o ano) em escolas do Estado de Alagoas.
@@ -332,6 +384,7 @@ REGIONAL | Candidatos ao Critério de Inclusão Regional
 REGIONAL | Candidatos deverão ter concluído o Ensino Médio ou equivalente no estado do Pará e residir no estado do Pará, excluindo-se aqueles que residem nos municípios de Belém, Ananindeua e Marituba.
 REGIONAL | Candidatos que concluíram o Ensino Fundamental e cursaram todo o Ensino Médio em escolas regulares presenciais, públicas ou privadas, nas microrregiões de Borborema Potiguar-RN, Seridó Ocidental-RN, Seridó Oriental-RN, Agreste Potiguar-RN, Angicos-RN, Serra de Santana-RN, Vale do Açu-RN, Catolé do Rocha-PB, Curimataú Ocidental-PB, Curimataú Oriental-PB, Patos-PB, Seridó Ocidental Paraibano-PB, Seridó Oriental Paraibano-PB ou Sousa-PB, excluídos aqueles que concluíram o Ensino Fundamental e/ou o Ensino Médio por meio de exames supletivos.
 REGIONAL | Candidatos que cursaram integralmente o Ensino Médio em escolas regulares e presenciais, públicas e privadas dos municípios do Estado do Piauí
+REGIONAL | candidatos que residam e tenham cursado todo o ensino médio em instituições (da rede pública ou privada) de ensino do estado da paraíba (lei nº 12.122 de 09 de novembro de 2021)
 REGIONAL | Candidatos que tenham cursado integralmente o ensino médio em qualquer uma das escolas situadas nas microrregiões do Agreste ou do Sertão de Pernambuco.
 REGIONAL | Candidatos que tenham cursado integralmente o ensino médio ou médio integrado ao técnico ou médio cursado integralmente em escola pública junto ao técnico no Colégio Técnico Dom Agostinho Ikas - CODAI, vinculado à UFRPE.
 REGIONAL | Candidatos que tenham cursado pelo menos um ano do ensino médio nos municípios que integram as regiões de influência das cidades nas quais estão implantados os campi da Unifesspa: Marabá, Rondon do Pará, Xinguara, São Felix do Xingu e Santana do Araguaia; e dos municípios que integram as regiões de influência das cidades de Imperatriz-MA e Araguaina-TO.
@@ -374,6 +427,7 @@ REGIONAL | ¿   CANDIDATOS COM DEFICIÊNCIA, OU FILHOS DE POLICIAIS CIVIS, MILIT
 RENDA + EP | (as) com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o ensino médio em escolas públicas brasileiras. (L1)
 RENDA + EP | A3 - Candidatos que tenham cursado na rede pública os últimos quatro anos do ensino fundamental e todo o ensino médio e com comprovação de carência socioeconômica
 RENDA + EP | A3 - Carente Socioeconômico e da Rede Pública
+RENDA + EP | a3 - carente socioeconômico e da rede pública.
 RENDA + EP | A3 - Carente Socioeconômico e oriundo da Rede Pública de ensino
 RENDA + EP | A3- Carente Socioeconômico e oriundo da Rede Pública de ensino
 RENDA + EP | AF3: Pessoas que tenham cursado integralmente o Ensino Médio em escolas da rede pública de ensino, com renda per capita (mensal) de até um salário-mínimo e meio (1,5) e que não estejam concorrendo na forma das Ações Afirmativas 1 e 2.
@@ -386,10 +440,13 @@ RENDA + EP | Candidato (s) que tenham cursado, na rede pública, os últimos qua
 RENDA + EP | Candidatos A3 - Carente Socioeconômico e da Rede Pública
 RENDA + EP | Candidatos A3 - Carente Socioeconômico e oriundo da Rede Pública de ensino
 RENDA + EP | Candidatos com renda familiar bruta per capita igual ou inferior a 1 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
+RENDA + EP | Candidatos com renda familiar bruta per capita igual ou inferior a 1 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas ou em escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público (Lei nº 12.711/2012).
 RENDA + EP | Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).
 RENDA + EP | Candidatos EEP - Egresso da escola pública, de baixa renda:
 RENDA + EP | Candidatos Egressos da Escola Pública, de baixa renda:
+RENDA + EP | candidatos egressos de escolas públicas da rede federal, estadual ou municipal, que cursaram os anos finais do ensino fundamental (6º ao 9º anos) e todo o ensino médio (1º ao 3º anos), com renda familiar bruta per capita igual ou inferior a 1 salário mínimo (corresponde ao estrato a1 e a 10% das vagas), devendo essa condição ser comprovada no ato da matrícula.
 RENDA + EP | Candidatos egressos de escolas públicas da rede federal, estadual ou municipal, que cursaram os anos finais do Ensino Fundamental (6º ao 9º anos) e todo o Ensino Médio (1º ao 3º anos), com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, devendo essa condição ser comprovada no ato da matrícula.
+RENDA + EP | candidatos estudantes oriundos de escolas públicas integrantes da estrutura da secretaria de estado de educação, unidade integrante do governo do estado ou municípios, vinculadas pedagógica e administrativamente às respectivas diretorias regionais de ensino, com renda familiar de até 02 (dois) salários mínimos.
 RENDA + EP | Candidatos que se declararem não-negros e que tenham cursado todo o ensino médio e pelo menos quatro anos letivos do Ensino Fundamental em escola pública  (renda familiar de 1,5 salários mínimos per capita)
 RENDA + EP | Candidatos que tenham cursado na rede pública os últimos quatro anos do ensino fundamental e todo o ensino médio e com comprovação de carência socioeconômica
 RENDA + EP | Candidatos que tenham cursado na rede pública os últimos quatro anos do ensino fundamental e todo o ensino médio e com comprovação de carência socioeconômica.
@@ -402,6 +459,7 @@ RENDA + EP | L1 - Candidatos com renda familiar bruta per capita igual ou inferi
 RENDA + EP | que tenham cursado integralmente o ensino médio em escolas públicas, que não tenham se declarado pretos, pardos ou indígenas, nos termos da legislação, e que comprovem ser oriundos de famílias com renda igual ou inferior a 1 (um) salário-mínimo per capita.
 RENDA + EP | que tenham cursado na rede pública todo o ensino médio e com comprovação de carência socioeconômica
 RENDA | Candidato (s) economicamente hipossuficientes
+RENDA | cotas sociais
 SURDO | Candidato (s) deficientes auditivos especificamente no curso de Letras-Libras.
 SURDO | Candidato (s) surdos
 SURDO | Candidatos Candidatos Candidato (s) Surdos Vagas reservadas
@@ -413,16 +471,23 @@ SURDO | comprovadamente surdos, de acordo com a legislação vigente. Tipo de va
 SURDO | comprovadamente surdos, de acordo com a legislação vigente. Tipo de vaga exclusiva para o Curso de Letras Libras
 SURDO | comprovadamente surdos, de acordo com a legislação vigente. Tipo de vaga exclusiva para o Curso de Letras ¿ Libras
 SURDO | Surdos
+SURDO | surdos (v)
+SURDO | surdos para o curso de letras - libras/língua estrangeira (resolução conac/ufrb 017/2014)
 SURDO | surdos que optarem pelas vagas destinadas à ampla concorrência terão bonificação de 20% na pontuação final do Exame Nacional do Ensino Médio (ENEM).
 SURDO | Surdos(as)
+TRANS + EP | para a reserva de vagas para pessoas trans (travestis, transexuais, transgêneras - transmasculinas, transfemininas e/ou trans não binárias), que tenham cursado o ensino médio integralmente em escola pública
 TRANS + EP | transexuais, travestis e transgêneros, que tenham cursado integralmente o ensino médio em escolas públicas.
+TRANS + EP | travestis, transexuais, transgêneras - transmasculinas, transfemininas e/ou trans não binárias, que tenham cursado o ensino médio integralmente em escola pública,
+TRANS + RENDA + EP | candidatos autodeclarados como pessoa trans, com renda familiar bruta per capita igual ou inferior a 1 salários mínimo que tenham cursado integralmente o ensino médio em escolas públicas (resolução consepe nº 5.905/2024)
 TRANS + RENDA + EP | Candidatos Transexuais, travestis e transgêneros que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
 TRANS + RENDA + EP | Candidatos Transsexuais, Travestis e Transgêneros que tenham cursado todo o ensino médio e pelo menos quatro anos letivos do Ensino Fundamental em escola pública  (renda familiar de 1,5 salários mínimos per capita)
 TRANS + RENDA + EP | transexuais, travestis e transgêneros que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
+TRANS + RENDA | Pessoas Transgêneras em situação de Vulnerabilidade Econômica
+TRANS + RENDA | Pessoas Transgêneras em situação de Vulnerabilidade Econômica.
+TRANS + RENDA | travestis, homens trans, mulheres trans e pessoas não bináries que tenham cursado todo o 2º ciclo do ensino fundamental e o ensino médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.
 TRANS | - Candidatos Trans (transexuais, travestis e transgêneros) e que não tenham concluído curso de graduação.
 TRANS | Candidatos Transsexuais, Travestis ou Transgêneros
-TRANS | Pessoas Transgêneras em situação de Vulnerabilidade Econômica
-TRANS | Pessoas Transgêneras em situação de Vulnerabilidade Econômica.
+TRANS | lt - pessoas transgêneros, transexuais e travestis
 TRANS | Pessoas Transgêneras, independentemente de renda familiar
 TRANS | Trans (transexuais, travestis e transgêneros) e que não tenham concluído curso de graduação.
 TRANS | Transexuais, Travestis e Transgêneros

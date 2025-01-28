@@ -107712,7 +107712,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 3 | Nota de Corte: 572.80
 	PPI + PCD + EP:
 		Vagas: 3 | Nota de Corte: 532.75
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 4 | Nota de Corte: 508.25
 	TRANS:
 		Vagas: 4 | Nota de Corte: .00
@@ -107742,7 +107742,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 4 | Nota de Corte: 608.85
 	REFUGIADO:
 		Vagas: 1 | Nota de Corte: 588.53
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 4 | Nota de Corte: 567.41
 	PPI + PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 512.05
@@ -107774,7 +107774,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 6 | Nota de Corte: 618.91
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 570.00
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -107804,7 +107804,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 6 | Nota de Corte: 620.21
 	TRANS:
 		Vagas: 1 | Nota de Corte: 608.80
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -107841,7 +107841,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 18 | Nota de Corte: 633.22
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 536.48
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: .00
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
@@ -107871,7 +107871,7 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 32 | Nota de Corte: 647.13
 	PPI + RENDA + EP:
 		Vagas: 19 | Nota de Corte: 636.36
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: 558.12
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
@@ -107903,7 +107903,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 15 | Nota de Corte: 636.75
 	TRANS:
 		Vagas: 2 | Nota de Corte: 624.38
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: 623.95
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 570.27
@@ -107935,7 +107935,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 14 | Nota de Corte: 642.42
 	PPI + RENDA + EP:
 		Vagas: 15 | Nota de Corte: 641.18
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 2 | Nota de Corte: 609.49
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: 578.86
@@ -107967,7 +107967,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: 632.70
 	TRANS:
 		Vagas: 1 | Nota de Corte: 628.97
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: 622.66
 	PCD:
 		Vagas: 2 | Nota de Corte: 531.68
@@ -107999,7 +107999,7 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: 631.89
 	TRANS:
 		Vagas: 1 | Nota de Corte: 621.96
-	TRANS:
+	TRANS + RENDA:
 		Vagas: 1 | Nota de Corte: 603.92
 	REFUGIADO + RENDA:
 		Vagas: 1 | Nota de Corte: .00
